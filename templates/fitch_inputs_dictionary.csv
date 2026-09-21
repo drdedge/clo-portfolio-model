@@ -1,0 +1,8 @@
+field,requirement,units,permitted_values,meaning
+instrument_id,Required for every supplied row,text,Exact portfolio instrument_id; unique,Join key; no fuzzy matching
+fitch_idr,Required for WARF,rating symbol,AAA; AA+; AA; AA-; A+; A; A-; BBB+; BBB; BBB-; BB+; BB; BB-; B+; B; B-; CCC+; CCC; CCC-; CC; C,Reviewed Fitch IDR or Appendix 5 equivalency; no automatic S&P substitution
+fitch_rating_basis,Required for WARF,enum,public_fitch_idr; reviewed_appendix5_equivalent; development_proxy,development_proxy labels result as assumed
+fitch_industry,Optional; gap if blank,text,Separate supplied Fitch industry label,Presence only checked; mapping needs current Fitch taxonomy review; no concentrations implemented
+fitch_recovery,Required for WARR,"fraction [0,1]",0.65 means 65%; 65 and 65% invalid,Issue recovery estimate or rating-based factor when available; otherwise reviewed BBsf fallback; not S&P AAA recovery
+fitch_recovery_basis,Required for WARR,enum,fitch_issue_recovery_estimate; fitch_issue_recovery_rating; reviewed_bbsf_fallback; development_assumption,development_assumption labels result as assumed
+source_reference,Required for WARF and WARR,text,Specific document/date/input basis,Describe both rating and recovery provenance; not independently verified by parser

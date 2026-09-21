@@ -1,0 +1,283 @@
+instrument_id,obligor_id,obligor_name,par,sp_rating,sp_industry,country,seniority,rate_type,spread_bps,fixed_coupon_rate,floor_bps,maturity_date,recovery_aaa,price,payment_frequency,currency,benchmark
+SYN-LN-00001,SYN-OB-0001,Alder Holdings 001,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,220,,0,2033-10-30,0.395,101.5,4,USD,SOFR
+SYN-LN-00002,SYN-OB-0002,Amber Inc. 002,586000,BBB,IT Services,United Kingdom,Sr Unsec,Floating,220,,0,2031-02-15,0.2,96.5,4,USD,SOFR
+SYN-LN-00003,SYN-OB-0003,Arbor Corp. 003,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,255,,0,2032-04-15,0.405,100.25,4,USD,SOFR
+SYN-LN-00004,SYN-OB-0004,Atlas Group 004,1182000,B-,Financial services,United States,1st Lien,Floating,575,,0,2031-04-30,0.305,101.25,4,USD,SOFR
+SYN-LN-00005,SYN-OB-0005,Beacon LLC 005,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-03-30,0.36,96.75,4,USD,SOFR
+SYN-LN-00006,SYN-OB-0006,Bluewater Holdings 006,1182000,B,Chemicals,United States,1st Lien,Floating,325,,0,2033-01-15,0.43,99,4,USD,SOFR
+SYN-LN-00007,SYN-OB-0007,Bracken Inc. 007,1182000,B,Building Products,United States,1st Lien,Floating,290,,0,2029-01-15,0.45,99.5,4,USD,SOFR
+SYN-LN-00008,SYN-OB-0008,Cedar Corp. 008,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,110,,0,2032-10-30,0.49,98.5,4,USD,SOFR
+SYN-LN-00009,SYN-OB-0009,Cobalt Group 009,1182000,BB-,Diversified Telecommunication Services,United States,1st Lien,Floating,330,,0,2033-06-15,0.2,99.75,4,USD,SOFR
+SYN-LN-00010,SYN-OB-0010,Copper LLC 010,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2031-10-30,0.525,100.375,4,USD,SOFR
+SYN-LN-00011,SYN-OB-0011,Crest Holdings 011,570000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,130,,0,2033-10-15,0.395,100.125,4,USD,SOFR
+SYN-LN-00012,SYN-OB-0011,Crest Holdings 011,612000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,140,,0,2033-12-15,0.395,100.25,4,USD,SOFR
+SYN-LN-00013,SYN-OB-0012,Duneland Inc. 012,650000,B+,Industrial Conglomerates,United States,1st Lien,Floating,280,,50,2031-06-15,0.285,99.625,4,USD,SOFR
+SYN-LN-00014,SYN-OB-0012,Duneland Inc. 012,532000,B+,Industrial Conglomerates,United States,1st Lien,Floating,290,,0,2031-08-28,0.285,99.75,4,USD,SOFR
+SYN-LN-00015,SYN-OB-0013,Elmstone Corp. 013,1182000,BB,Construction Materials,United States,1st Lien,Floating,195,,0,2031-06-28,0.315,99.25,4,USD,SOFR
+SYN-LN-00016,SYN-OB-0014,Evergreen Group 014,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2032-03-15,0.725,98.125,4,USD,SOFR
+SYN-LN-00017,SYN-OB-0015,Fairhaven LLC 015,630000,BB-,Beverages,Switzerland,Sr Secured,Fixed,,0.0455,,2034-02-28,0.325,99,2,USD,
+SYN-LN-00018,SYN-OB-0016,Granite Holdings 016,1182000,BB,Banks,United States,1st Lien,Floating,285,,0,2030-08-15,0.45,101.5,4,USD,SOFR
+SYN-LN-00019,SYN-OB-0017,Harbor Inc. 017,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,280,,0,2032-05-15,0.235,95.375,4,USD,SOFR
+SYN-LN-00020,SYN-OB-0018,Hawthorne Corp. 018,1182000,B+,Passenger airlines,United States,1st Lien,Floating,290,,0,2030-11-30,0.495,100.25,4,USD,SOFR
+SYN-LN-00021,SYN-OB-0019,Highland Group 019,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,150,,0,2031-04-28,0.275,99.25,4,USD,SOFR
+SYN-LN-00022,SYN-OB-0020,Ironwood LLC 020,1182000,BBB-,Capital Markets,United States,1st Lien,Floating,225,,0,2033-02-28,0.37,101.5,4,USD,SOFR
+SYN-LN-00023,SYN-OB-0021,Juniper Holdings 021,1182000,BB,Healthcare Technology,United States,1st Lien,Floating,215,,0,2032-11-30,0.435,99.375,4,USD,SOFR
+SYN-LN-00024,SYN-OB-0022,Keystone Inc. 022,1182000,B+,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2034-07-15,0.435,98.75,4,USD,SOFR
+SYN-LN-00025,SYN-OB-0023,Lakeview Corp. 023,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,290,,0,2030-12-28,0.27,100.375,4,USD,SOFR
+SYN-LN-00026,SYN-OB-0024,Larkspur Group 024,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,405,,0,2029-12-28,0.285,101.5,4,USD,SOFR
+SYN-LN-00027,SYN-OB-0025,Maple LLC 025,1182000,BB-,Broadline retail,United States,1st Lien,Floating,235,,0,2033-05-28,0.475,100.25,4,USD,SOFR
+SYN-LN-00028,SYN-OB-0026,Meridian Holdings 026,1182000,BB-,Household Products,United States,1st Lien,Floating,295,,0,2032-10-28,0.365,97,4,USD,SOFR
+SYN-LN-00029,SYN-OB-0027,Northfield Inc. 027,630000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,365,,50,2035-09-30,0.43,99.5,4,USD,SOFR
+SYN-LN-00030,SYN-OB-0028,Oakmont Corp. 028,1182000,B-,Financial services,United States,1st Lien,Floating,330,,0,2032-11-15,0.385,98.875,4,USD,SOFR
+SYN-LN-00031,SYN-OB-0029,Orchard Group 029,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,375,,0,2032-03-28,0.295,100.5,4,USD,SOFR
+SYN-LN-00032,SYN-OB-0030,Pinecrest LLC 030,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,435,,0,2033-01-28,0.325,100.625,4,USD,SOFR
+SYN-LN-00033,SYN-OB-0031,Redwood Holdings 031,1182000,B+,Professional Services,United States,1st Lien,Floating,430,,0,2033-11-15,0.335,100.125,4,USD,SOFR
+SYN-LN-00034,SYN-OB-0032,Riverton Inc. 032,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,325,,0,2031-05-15,0.355,100.125,4,USD,SOFR
+SYN-LN-00035,SYN-OB-0033,Silver Corp. 033,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,430,,0,2031-06-15,0.435,99.625,4,USD,SOFR
+SYN-LN-00036,SYN-OB-0034,Stonebridge Group 034,1182000,B,Building Products,United States,1st Lien,Floating,275,,0,2031-11-30,0.36,99.5,4,USD,SOFR
+SYN-LN-00037,SYN-OB-0035,Summit LLC 035,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,220,,0,2031-07-28,0.2,97.25,4,USD,SOFR
+SYN-LN-00038,SYN-OB-0036,Timber Holdings 036,1182000,B-,Machinery,United States,1st Lien,Floating,460,,0,2033-02-28,0.47,101.5,4,USD,SOFR
+SYN-LN-00039,SYN-OB-0037,Westhaven Inc. 037,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,150,,0,2029-07-28,0.34,98.75,4,USD,SOFR
+SYN-LN-00040,SYN-OB-0038,Willow Corp. 038,630000,BB,Auto Components,Canada,1st Lien,Floating,295,,50,2032-12-15,0.62,100.75,4,USD,SOFR
+SYN-LN-00041,SYN-OB-0039,Windward Group 039,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,220,,0,2033-06-15,0.415,100.75,4,USD,SOFR
+SYN-LN-00042,SYN-OB-0040,Woodland LLC 040,1182000,BB,Interactive media and services,United States,1st Lien,Floating,305,,0,2032-11-30,0.545,99.125,4,USD,SOFR
+SYN-LN-00043,SYN-OB-0041,Alder Holdings 041,1182000,B,IT Services,United States,1st Lien,Floating,270,,0,2033-10-30,0.28,99.125,4,USD,SOFR
+SYN-LN-00044,SYN-OB-0042,Amber Inc. 042,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,330,,0,2031-11-30,0.425,99.625,4,USD,SOFR
+SYN-LN-00045,SYN-OB-0043,Arbor Corp. 043,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,365,,0,2033-09-30,0.39,101.5,4,USD,SOFR
+SYN-LN-00046,SYN-OB-0044,Atlas Group 044,1182000,B+,Electric Utilities,United States,1st Lien,Floating,300,,0,2033-11-28,0.43,101.125,4,USD,SOFR
+SYN-LN-00047,SYN-OB-0045,Beacon LLC 045,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,360,,0,2033-12-15,0.305,98.75,4,USD,SOFR
+SYN-LN-00048,SYN-OB-0046,Bluewater Holdings 046,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,365,,0,2030-12-15,0.445,101.5,4,USD,SOFR
+SYN-LN-00049,SYN-OB-0047,Bracken Inc. 047,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,430,,0,2029-11-15,0.375,95.5,4,USD,SOFR
+SYN-LN-00050,SYN-OB-0048,Cedar Corp. 048,630000,BBB-,Financial services,Netherlands,Sr Secured,Floating,210,,50,2030-05-15,0.33,97.625,4,USD,SOFR
+SYN-LN-00051,SYN-OB-0049,Cobalt Group 049,1182000,BB,Banks,United States,1st Lien,Floating,260,,0,2030-02-15,0.515,99.125,4,USD,SOFR
+SYN-LN-00052,SYN-OB-0050,Copper LLC 050,630000,BB+,Construction & Engineering,United States,1st Lien,Floating,195,,50,2030-11-28,0.475,99.125,4,USD,SOFR
+SYN-LN-00053,SYN-OB-0051,Crest Holdings 051,1182000,BB-,Food Products,United Kingdom,1st Lien,Floating,355,,0,2032-07-28,0.4,99.375,4,USD,SOFR
+SYN-LN-00054,SYN-OB-0052,Duneland Inc. 052,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2032-11-28,0.37,95.875,4,USD,SOFR
+SYN-LN-00055,SYN-OB-0053,Elmstone Corp. 053,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,195,,0,2030-08-15,0.49,101.25,4,USD,SOFR
+SYN-LN-00056,SYN-OB-0054,Evergreen Group 054,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,335,,0,2033-04-30,0.2,101.5,4,USD,SOFR
+SYN-LN-00057,SYN-OB-0055,Fairhaven LLC 055,630000,B-,Healthcare Providers & Services,Austria,1st Lien,Floating,425,,50,2032-09-28,0.405,96.25,4,USD,SOFR
+SYN-LN-00058,SYN-OB-0056,Granite Holdings 056,630000,BBB+,Leisure Products,United Kingdom,1st Lien,Floating,265,,50,2030-07-15,0.495,95.375,4,USD,SOFR
+SYN-LN-00059,SYN-OB-0057,Harbor Inc. 057,1182000,BB+,Leisure Products,United States,1st Lien,Floating,190,,0,2033-01-30,0.46,100.5,4,USD,SOFR
+SYN-LN-00060,SYN-OB-0058,Hawthorne Corp. 058,1182000,BB-,Household Products,United States,1st Lien,Floating,265,,0,2033-12-28,0.35,96,4,USD,SOFR
+SYN-LN-00061,SYN-OB-0059,Highland Group 059,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,410,,0,2031-12-15,0.45,96.5,4,USD,SOFR
+SYN-LN-00062,SYN-OB-0060,Ironwood LLC 060,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,275,,0,2034-05-30,0.43,101.25,4,USD,SOFR
+SYN-LN-00063,SYN-OB-0061,Juniper Holdings 061,630000,B+,Electric Utilities,Ireland,1st Lien,Floating,300,,0,2032-09-30,0.415,100,4,USD,SOFR
+SYN-LN-00064,SYN-OB-0062,Keystone Inc. 062,1182000,B+,Electric Utilities,United States,1st Lien,Floating,285,,0,2033-04-30,0.375,97.625,4,USD,SOFR
+SYN-LN-00065,SYN-OB-0063,Lakeview Corp. 063,1182000,B-,Software,United States,1st Lien,Floating,515,,0,2031-02-28,0.3,101.5,4,USD,SOFR
+SYN-LN-00066,SYN-OB-0064,Larkspur Group 064,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,455,,0,2031-01-28,0.33,100.75,4,USD,SOFR
+SYN-LN-00067,SYN-OB-0065,Maple LLC 065,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,225,,0,2030-09-30,0.2,101.5,4,USD,SOFR
+SYN-LN-00068,SYN-OB-0066,Meridian Holdings 066,1182000,B-,Financial services,United States,1st Lien,Floating,365,,0,2030-10-30,0.395,98,4,USD,SOFR
+SYN-LN-00069,SYN-OB-0067,Northfield Inc. 067,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,215,,0,2030-06-28,0.55,100.875,4,USD,SOFR
+SYN-LN-00070,SYN-OB-0068,Oakmont Corp. 068,1182000,B,Chemicals,United States,1st Lien,Floating,190,,0,2031-09-28,0.31,100,4,USD,SOFR
+SYN-LN-00071,SYN-OB-0069,Orchard Group 069,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,335,,0,2034-01-15,0.39,100.5,4,USD,SOFR
+SYN-LN-00072,SYN-OB-0070,Pinecrest LLC 070,630000,B,Electrical Equipment,United States,1st Lien,Floating,115,,0,2031-06-15,0.225,101.5,4,USD,SOFR
+SYN-LN-00073,SYN-OB-0071,Redwood Holdings 071,1182000,B-,Specialty Retail,United States,1st Lien,Floating,200,,0,2034-05-15,0.445,101.5,4,USD,SOFR
+SYN-LN-00074,SYN-OB-0072,Riverton Inc. 072,630000,A-,Building Products,Germany,1st Lien,Floating,335,,0,2032-11-15,0.305,98.375,4,USD,SOFR
+SYN-LN-00075,SYN-OB-0073,Silver Corp. 073,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,405,,0,2032-09-28,0.31,97.125,4,USD,SOFR
+SYN-LN-00076,SYN-OB-0074,Stonebridge Group 074,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,240,,0,2032-01-30,0.39,98,4,USD,SOFR
+SYN-LN-00077,SYN-OB-0075,Summit LLC 075,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2032-08-15,0.365,99.125,4,USD,SOFR
+SYN-LN-00078,SYN-OB-0076,Timber Holdings 076,770000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2032-05-28,0.345,101,4,USD,SOFR
+SYN-LN-00079,SYN-OB-0076,Timber Holdings 076,412000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,210,,50,2032-07-30,0.345,101.125,4,USD,SOFR
+SYN-LN-00080,SYN-OB-0077,Westhaven Inc. 077,1182000,B,IT Services,United States,1st Lien,Floating,135,,0,2033-10-28,0.325,98.25,4,USD,SOFR
+SYN-LN-00081,SYN-OB-0078,Willow Corp. 078,1182000,B,IT Services,United States,1st Lien,Floating,325,,0,2032-09-30,0.485,101.5,4,USD,SOFR
+SYN-LN-00082,SYN-OB-0079,Windward Group 079,1182000,B,Construction & Engineering,United States,1st Lien,Floating,380,,0,2032-11-28,0.405,96.875,4,USD,SOFR
+SYN-LN-00083,SYN-OB-0080,Woodland LLC 080,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,315,,0,2031-04-28,0.255,95.75,4,USD,SOFR
+SYN-LN-00084,SYN-OB-0081,Alder Holdings 081,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,230,,0,2031-10-28,0.37,98.75,4,USD,SOFR
+SYN-LN-00085,SYN-OB-0082,Amber Inc. 082,630000,BBB-,Media,Netherlands,1st Lien,Floating,245,,50,2033-09-28,0.5,97.125,4,USD,SOFR
+SYN-LN-00086,SYN-OB-0083,Arbor Corp. 083,1182000,BB+,Specialty Retail,United States,1st Lien,Floating,240,,0,2031-10-15,0.415,101.5,4,USD,SOFR
+SYN-LN-00087,SYN-OB-0084,Atlas Group 084,630000,BB+,Leisure Products,United Kingdom,1st Lien,Floating,190,,0,2032-12-28,0.305,99.875,4,USD,SOFR
+SYN-LN-00088,SYN-OB-0085,Beacon LLC 085,1182000,B,Building Products,United States,1st Lien,Floating,200,,0,2031-06-30,0.47,98.625,4,USD,SOFR
+SYN-LN-00089,SYN-OB-0086,Bluewater Holdings 086,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,115,,0,2032-06-28,0.5,101.5,4,USD,SOFR
+SYN-LN-00090,SYN-OB-0087,Bracken Inc. 087,1182000,B+,Media,United States,1st Lien,Floating,270,,0,2030-09-15,0.595,99.625,4,USD,SOFR
+SYN-LN-00091,SYN-OB-0088,Cedar Corp. 088,630000,BBB-,Electrical Equipment,United States,Senior,Floating,225,,50,2032-09-30,0.495,99.625,4,USD,SOFR
+SYN-LN-00092,SYN-OB-0089,Cobalt Group 089,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2032-05-30,0.31,98.375,4,USD,SOFR
+SYN-LN-00093,SYN-OB-0090,Copper LLC 090,1182000,B,Auto Components,United States,1st Lien,Floating,320,,0,2032-08-15,0.2,101.5,4,USD,SOFR
+SYN-LN-00094,SYN-OB-0091,Crest Holdings 091,1182000,B,Media,United States,1st Lien,Floating,340,,0,2034-02-28,0.425,100,4,USD,SOFR
+SYN-LN-00095,SYN-OB-0092,Duneland Inc. 092,630000,B+,Gas Utilities,Germany,1st Lien,Floating,115,,0,2029-01-15,0.68,101.5,4,USD,SOFR
+SYN-LN-00096,SYN-OB-0093,Elmstone Corp. 093,1182000,B-,"Textiles, Apparel & Luxury Goods",United States,1st Lien,Floating,395,,0,2032-02-28,0.44,99.75,4,USD,SOFR
+SYN-LN-00097,SYN-OB-0094,Evergreen Group 094,770000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,370,,0,2031-11-28,0.52,98,4,USD,SOFR
+SYN-LN-00098,SYN-OB-0094,Evergreen Group 094,412000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,380,,0,2032-01-30,0.52,98.125,4,USD,SOFR
+SYN-LN-00099,SYN-OB-0095,Fairhaven LLC 095,1182000,BB+,Pharmaceuticals,Luxembourg,1st Lien,Floating,215,,0,2033-01-28,0.34,99.875,4,USD,SOFR
+SYN-LN-00100,SYN-OB-0096,Granite Holdings 096,1182000,B,"Electronic Equipment, Instruments & Components",United Kingdom,1st Lien,Floating,265,,0,2031-11-28,0.41,100.25,4,USD,SOFR
+SYN-LN-00101,SYN-OB-0097,Harbor Inc. 097,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,220,,0,2033-02-15,0.305,96.625,4,USD,SOFR
+SYN-LN-00102,SYN-OB-0098,Hawthorne Corp. 098,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,285,,0,2031-08-30,0.595,98.125,4,USD,SOFR
+SYN-LN-00103,SYN-OB-0099,Highland Group 099,1182000,B,Financial services,United States,1st Lien,Floating,175,,0,2030-03-30,0.475,98.875,4,USD,SOFR
+SYN-LN-00104,SYN-OB-0100,Ironwood LLC 100,1182000,B-,Machinery,United States,1st Lien,Floating,380,,0,2034-02-28,0.365,99.375,4,USD,SOFR
+SYN-LN-00105,SYN-OB-0101,Juniper Holdings 101,1182000,B-,Consumer Finance,United States,1st Lien,Floating,210,,0,2031-12-15,0.535,96.875,4,USD,SOFR
+SYN-LN-00106,SYN-OB-0102,Keystone Inc. 102,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,175,,0,2030-11-28,0.43,100.5,4,USD,SOFR
+SYN-LN-00107,SYN-OB-0103,Lakeview Corp. 103,1182000,BB-,Real Estate Management & Development,United States,1st Lien,Floating,220,,0,2033-12-30,0.48,94.875,4,USD,SOFR
+SYN-LN-00108,SYN-OB-0104,Larkspur Group 104,630000,B-,Software,United States,1st Lien,Fixed,,0.046875,,2029-10-28,0.465,99,2,USD,
+SYN-LN-00109,SYN-OB-0105,Maple LLC 105,1182000,B,Construction & Engineering,United States,1st Lien,Floating,350,,0,2034-05-28,0.335,99.625,4,USD,SOFR
+SYN-LN-00110,SYN-OB-0106,Meridian Holdings 106,1182000,B+,Electric Utilities,United States,1st Lien,Floating,340,,0,2030-03-28,0.375,99,4,USD,SOFR
+SYN-LN-00111,SYN-OB-0107,Northfield Inc. 107,630000,A-,Diversified Consumer Services,Netherlands,1st Lien,Floating,325,,0,2032-01-30,0.565,101.5,4,USD,SOFR
+SYN-LN-00112,SYN-OB-0108,Oakmont Corp. 108,630000,B,Wireless Telecommunication Services,Luxembourg,1st Lien,Floating,315,,50,2031-10-28,0.37,98.875,4,USD,SOFR
+SYN-LN-00113,SYN-OB-0109,Orchard Group 109,1220000,B,Healthcare Providers & Services,United States,1st Lien,Floating,255,,0,2032-08-28,0.455,97.75,4,USD,SOFR
+SYN-LN-00114,SYN-OB-0110,Pinecrest LLC 110,1182000,B,Chemicals,Netherlands,1st Lien,Floating,340,,0,2033-10-15,0.425,100.5,4,USD,SOFR
+SYN-LN-00115,SYN-OB-0111,Redwood Holdings 111,1182000,B+,Media,United States,1st Lien,Floating,265,,0,2031-06-28,0.2,100.625,4,USD,SOFR
+SYN-LN-00116,SYN-OB-0112,Riverton Inc. 112,1182000,B,IT Services,United States,1st Lien,Floating,290,,0,2032-11-15,0.235,99.75,4,USD,SOFR
+SYN-LN-00117,SYN-OB-0113,Silver Corp. 113,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,365,,0,2031-09-28,0.24,100,4,USD,SOFR
+SYN-LN-00118,SYN-OB-0114,Stonebridge Group 114,1224000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2030-09-30,0.335,98.875,4,USD,SOFR
+SYN-LN-00119,SYN-OB-0115,Summit LLC 115,610000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,255,,50,2031-12-15,0.505,101.5,4,USD,SOFR
+SYN-LN-00120,SYN-OB-0115,Summit LLC 115,572000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,265,,50,2032-02-28,0.505,101.625,4,USD,SOFR
+SYN-LN-00121,SYN-OB-0116,Timber Holdings 116,1182000,B,Chemicals,United States,1st Lien,Floating,290,,0,2033-12-28,0.275,98.5,4,USD,SOFR
+SYN-LN-00122,SYN-OB-0117,Westhaven Inc. 117,630000,B+,"Hotels, Restaurants & Leisure",United Kingdom,Sr Unsec,Floating,235,,0,2032-02-15,0.2,101.5,4,USD,SOFR
+SYN-LN-00123,SYN-OB-0118,Willow Corp. 118,1182000,B-,Consumer Finance,United States,1st Lien,Floating,380,,0,2032-11-30,0.495,100,4,USD,SOFR
+SYN-LN-00124,SYN-OB-0119,Windward Group 119,1182000,B-,Financial services,United States,1st Lien,Floating,250,,0,2032-06-30,0.35,98.625,4,USD,SOFR
+SYN-LN-00125,SYN-OB-0120,Woodland LLC 120,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,235,,0,2031-03-15,0.45,98.5,4,USD,SOFR
+SYN-LN-00126,SYN-OB-0121,Alder Holdings 121,1182000,B-,Software,United States,1st Lien,Floating,365,,0,2033-01-15,0.36,98.25,4,USD,SOFR
+SYN-LN-00127,SYN-OB-0122,Amber Inc. 122,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,150,,0,2032-04-15,0.325,101.5,4,USD,SOFR
+SYN-LN-00128,SYN-OB-0123,Arbor Corp. 123,1182000,B+,Media,United States,1st Lien,Floating,290,,0,2033-08-30,0.535,101.5,4,USD,SOFR
+SYN-LN-00129,SYN-OB-0124,Atlas Group 124,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,260,,0,2032-11-28,0.285,99.625,4,USD,SOFR
+SYN-LN-00130,SYN-OB-0125,Beacon LLC 125,1182000,B+,Insurance,United States,1st Lien,Floating,305,,0,2031-11-15,0.34,100.75,4,USD,SOFR
+SYN-LN-00131,SYN-OB-0126,Bluewater Holdings 126,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,255,,0,2032-03-28,0.305,101.125,4,USD,SOFR
+SYN-LN-00132,SYN-OB-0127,Bracken Inc. 127,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,330,,0,2033-05-15,0.38,97.875,4,USD,SOFR
+SYN-LN-00133,SYN-OB-0128,Cedar Corp. 128,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-06-30,0.37,101.5,4,USD,SOFR
+SYN-LN-00134,SYN-OB-0129,Cobalt Group 129,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,300,,0,2031-09-15,0.545,101.25,4,USD,SOFR
+SYN-LN-00135,SYN-OB-0130,Copper LLC 130,1182000,B,Chemicals,United States,1st Lien,Floating,265,,0,2031-01-15,0.35,96.625,4,USD,SOFR
+SYN-LN-00136,SYN-OB-0131,Crest Holdings 131,1182000,B,Chemicals,United States,1st Lien,Floating,295,,0,2032-07-30,0.22,96.125,4,USD,SOFR
+SYN-LN-00137,SYN-OB-0132,Duneland Inc. 132,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,290,,0,2031-07-30,0.505,98.625,4,USD,SOFR
+SYN-LN-00138,SYN-OB-0133,Elmstone Corp. 133,1182000,B,IT Services,United States,1st Lien,Floating,390,,0,2033-01-28,0.485,98.25,4,USD,SOFR
+SYN-LN-00139,SYN-OB-0134,Evergreen Group 134,1198000,B,Software,United States,1st Lien,Floating,400,,0,2032-10-28,0.425,101.5,4,USD,SOFR
+SYN-LN-00140,SYN-OB-0135,Fairhaven LLC 135,1182000,B+,Passenger airlines,United States,1st Lien,Floating,260,,0,2029-10-30,0.54,101.5,4,USD,SOFR
+SYN-LN-00141,SYN-OB-0136,Granite Holdings 136,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-06-28,0.395,97.375,4,USD,SOFR
+SYN-LN-00142,SYN-OB-0137,Harbor Inc. 137,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2032-03-28,0.47,99.125,4,USD,SOFR
+SYN-LN-00143,SYN-OB-0138,Hawthorne Corp. 138,1182000,B,Auto Components,United States,1st Lien,Floating,290,,0,2032-08-30,0.33,100.875,4,USD,SOFR
+SYN-LN-00144,SYN-OB-0139,Highland Group 139,630000,BB+,Specialty Retail,Netherlands,1st Lien,Floating,165,,0,2031-02-28,0.36,100.375,4,USD,SOFR
+SYN-LN-00145,SYN-OB-0140,Ironwood LLC 140,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,340,,0,2033-07-30,0.365,99.375,4,USD,SOFR
+SYN-LN-00146,SYN-OB-0141,Juniper Holdings 141,1182000,B+,Passenger airlines,United States,1st Lien,Floating,390,,0,2030-07-28,0.49,98.375,4,USD,SOFR
+SYN-LN-00147,SYN-OB-0142,Keystone Inc. 142,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,365,,0,2030-06-15,0.44,100.375,4,USD,SOFR
+SYN-LN-00148,SYN-OB-0143,Lakeview Corp. 143,630000,BBB,Software,Austria,1st Lien,Floating,215,,50,2032-04-15,0.41,101.125,4,USD,SOFR
+SYN-LN-00149,SYN-OB-0144,Larkspur Group 144,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,355,,0,2032-06-28,0.335,101.5,4,USD,SOFR
+SYN-LN-00150,SYN-OB-0145,Maple LLC 145,1182000,B+,Passenger airlines,United States,1st Lien,Floating,325,,0,2032-01-28,0.38,98.875,4,USD,SOFR
+SYN-LN-00151,SYN-OB-0146,Meridian Holdings 146,1189000,B,Software,United States,1st Lien,Floating,245,,0,2030-07-30,0.41,95.25,4,USD,SOFR
+SYN-LN-00152,SYN-OB-0147,Northfield Inc. 147,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-04-15,0.355,99.875,4,USD,SOFR
+SYN-LN-00153,SYN-OB-0148,Oakmont Corp. 148,1182000,B,Financial services,United States,1st Lien,Floating,265,,0,2033-08-28,0.34,101.125,4,USD,SOFR
+SYN-LN-00154,SYN-OB-0149,Orchard Group 149,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,355,,0,2031-07-15,0.37,98,4,USD,SOFR
+SYN-LN-00155,SYN-OB-0150,Pinecrest LLC 150,1182000,BB-,Professional Services,United States,1st Lien,Floating,315,,0,2033-11-15,0.365,98,4,USD,SOFR
+SYN-LN-00156,SYN-OB-0151,Redwood Holdings 151,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,225,,0,2032-07-28,0.325,96.75,4,USD,SOFR
+SYN-LN-00157,SYN-OB-0152,Riverton Inc. 152,1182000,BB,Transportation Infrastructure,United States,1st Lien,Floating,195,,0,2032-02-28,0.62,97.75,4,USD,SOFR
+SYN-LN-00158,SYN-OB-0153,Silver Corp. 153,1182000,B,Chemicals,Netherlands,1st Lien,Floating,335,,0,2031-05-30,0.34,101.5,4,USD,SOFR
+SYN-LN-00159,SYN-OB-0154,Stonebridge Group 154,1182000,BB-,Household Durables,United States,1st Lien,Floating,285,,0,2032-09-15,0.485,97.25,4,USD,SOFR
+SYN-LN-00160,SYN-OB-0155,Summit LLC 155,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-10-30,0.43,101.5,4,USD,SOFR
+SYN-LN-00161,SYN-OB-0156,Timber Holdings 156,1182000,BB,Machinery,United States,1st Lien,Floating,205,,0,2030-01-15,0.525,99.5,4,USD,SOFR
+SYN-LN-00162,SYN-OB-0157,Westhaven Inc. 157,1182000,BB-,Automobiles,United States,1st Lien,Floating,275,,0,2032-07-28,0.225,101.5,4,USD,SOFR
+SYN-LN-00163,SYN-OB-0158,Willow Corp. 158,1182000,BB,Banks,United States,1st Lien,Floating,230,,0,2030-09-30,0.475,99.625,4,USD,SOFR
+SYN-LN-00164,SYN-OB-0159,Windward Group 159,1182000,B,Chemicals,United States,1st Lien,Floating,375,,0,2031-11-28,0.345,98.25,4,USD,SOFR
+SYN-LN-00165,SYN-OB-0160,Woodland LLC 160,550000,B,Software,United States,1st Lien,Floating,230,,50,2030-07-28,0.36,96.5,4,USD,SOFR
+SYN-LN-00166,SYN-OB-0160,Woodland LLC 160,665000,B,Software,United States,1st Lien,Floating,240,,0,2030-09-30,0.36,96.625,4,USD,SOFR
+SYN-LN-00167,SYN-OB-0161,Alder Holdings 161,1182000,B,IT Services,United States,1st Lien,Floating,250,,0,2031-07-28,0.23,100.125,4,USD,SOFR
+SYN-LN-00168,SYN-OB-0162,Amber Inc. 162,630000,BB-,Ground transportation,Luxembourg,1st Lien,Fixed,,0.046,,2032-11-28,0.5,98.5,2,USD,
+SYN-LN-00169,SYN-OB-0163,Arbor Corp. 163,660000,B+,Capital Markets,United States,1st Lien,Floating,345,,0,2032-08-15,0.385,101.5,4,USD,SOFR
+SYN-LN-00170,SYN-OB-0163,Arbor Corp. 163,522000,B+,Capital Markets,United States,1st Lien,Floating,355,,75,2032-10-30,0.385,101.625,4,USD,SOFR
+SYN-LN-00171,SYN-OB-0164,Atlas Group 164,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,375,,0,2031-03-30,0.505,98.375,4,USD,SOFR
+SYN-LN-00172,SYN-OB-0165,Beacon LLC 165,1182000,B-,Financial services,United States,1st Lien,Floating,415,,0,2031-10-28,0.405,101.5,4,USD,SOFR
+SYN-LN-00173,SYN-OB-0166,Bluewater Holdings 166,1207000,B,Software,United States,1st Lien,Floating,345,,0,2031-05-15,0.45,100.875,4,USD,SOFR
+SYN-LN-00174,SYN-OB-0167,Bracken Inc. 167,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,100,,0,2031-12-15,0.285,97.875,4,USD,SOFR
+SYN-LN-00175,SYN-OB-0168,Cedar Corp. 168,1182000,B+,Media,United States,1st Lien,Floating,205,,0,2033-07-15,0.455,99.625,4,USD,SOFR
+SYN-LN-00176,SYN-OB-0169,Cobalt Group 169,1182000,B,Chemicals,United States,1st Lien,Floating,250,,0,2032-10-28,0.31,96.125,4,USD,SOFR
+SYN-LN-00177,SYN-OB-0170,Copper LLC 170,1182000,B+,Media,United States,1st Lien,Floating,315,,0,2030-06-28,0.39,99.875,4,USD,SOFR
+SYN-LN-00178,SYN-OB-0171,Crest Holdings 171,1182000,BB,Household Products,United States,1st Lien,Floating,245,,0,2031-12-15,0.415,99.625,4,USD,SOFR
+SYN-LN-00179,SYN-OB-0172,Duneland Inc. 172,1182000,B-,Machinery,United States,1st Lien,Floating,395,,0,2030-07-28,0.335,98.75,4,USD,SOFR
+SYN-LN-00180,SYN-OB-0173,Elmstone Corp. 173,630000,BBB+,Auto Components,United Kingdom,1st Lien,Fixed,,0.04225,,2032-06-28,0.435,97.125,2,USD,
+SYN-LN-00181,SYN-OB-0174,Evergreen Group 174,1211000,B,Healthcare Providers & Services,United States,1st Lien,Floating,285,,0,2030-01-28,0.475,100.75,4,USD,SOFR
+SYN-LN-00182,SYN-OB-0175,Fairhaven LLC 175,1182000,B+,Professional Services,United States,1st Lien,Floating,275,,0,2032-03-28,0.355,101.5,4,USD,SOFR
+SYN-LN-00183,SYN-OB-0176,Granite Holdings 176,1182000,B+,Electric Utilities,United States,1st Lien,Floating,260,,0,2031-10-15,0.54,100.875,4,USD,SOFR
+SYN-LN-00184,SYN-OB-0177,Harbor Inc. 177,1182000,BB-,Food Products,United States,1st Lien,Floating,245,,0,2031-02-28,0.395,101.5,4,USD,SOFR
+SYN-LN-00185,SYN-OB-0178,Hawthorne Corp. 178,630000,BBB-,Consumer Finance,Canada,1st Lien,Fixed,,0.045375,,2033-02-28,0.395,96.875,2,USD,
+SYN-LN-00186,SYN-OB-0179,Highland Group 179,1182000,B+,Electric Utilities,United States,1st Lien,Floating,265,,0,2031-08-15,0.525,99.875,4,USD,SOFR
+SYN-LN-00187,SYN-OB-0180,Ironwood LLC 180,1182000,B,Building Products,United States,1st Lien,Floating,395,,0,2031-10-15,0.475,101.5,4,USD,SOFR
+SYN-LN-00188,SYN-OB-0181,Juniper Holdings 181,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,245,,0,2033-09-28,0.475,101.5,4,USD,SOFR
+SYN-LN-00189,SYN-OB-0182,Keystone Inc. 182,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,420,,0,2029-01-30,0.475,97.5,4,USD,SOFR
+SYN-LN-00190,SYN-OB-0183,Lakeview Corp. 183,1182000,B,Chemicals,United States,1st Lien,Floating,280,,0,2032-02-28,0.25,94.375,4,USD,SOFR
+SYN-LN-00191,SYN-OB-0184,Larkspur Group 184,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,330,,0,2029-11-28,0.38,95.5,4,USD,SOFR
+SYN-LN-00192,SYN-OB-0185,Maple LLC 185,630000,BB+,Consumer Finance,United Kingdom,1st Lien,Floating,215,,0,2031-04-15,0.45,100.25,4,USD,SOFR
+SYN-LN-00193,SYN-OB-0186,Meridian Holdings 186,1193000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2033-03-28,0.34,97.25,4,USD,SOFR
+SYN-LN-00194,SYN-OB-0187,Northfield Inc. 187,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,315,,0,2032-10-30,0.385,100.25,4,USD,SOFR
+SYN-LN-00195,SYN-OB-0188,Oakmont Corp. 188,1182000,B,Capital Markets,United States,1st Lien,Floating,365,,0,2034-02-28,0.395,98.25,4,USD,SOFR
+SYN-LN-00196,SYN-OB-0189,Orchard Group 189,660000,B+,Media,United States,1st Lien,Floating,435,,50,2034-10-15,0.515,100.25,4,USD,SOFR
+SYN-LN-00197,SYN-OB-0189,Orchard Group 189,522000,B+,Media,United States,1st Lien,Floating,445,,50,2034-12-15,0.515,100.375,4,USD,SOFR
+SYN-LN-00198,SYN-OB-0190,Pinecrest LLC 190,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,250,,0,2031-12-28,0.505,101.5,4,USD,SOFR
+SYN-LN-00199,SYN-OB-0191,Redwood Holdings 191,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,415,,0,2032-02-28,0.49,101.5,4,USD,SOFR
+SYN-LN-00200,SYN-OB-0192,Riverton Inc. 192,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2029-05-28,0.425,101.5,4,USD,SOFR
+SYN-LN-00201,SYN-OB-0193,Silver Corp. 193,1182000,B-,Software,United States,1st Lien,Floating,390,,0,2032-12-30,0.49,101.5,4,USD,SOFR
+SYN-LN-00202,SYN-OB-0194,Stonebridge Group 194,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2032-05-28,0.21,101.5,4,USD,SOFR
+SYN-LN-00203,SYN-OB-0195,Summit LLC 195,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,495,,0,2029-08-28,0.53,101.5,4,USD,SOFR
+SYN-LN-00204,SYN-OB-0196,Timber Holdings 196,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,365,,0,2032-07-28,0.485,96.625,4,USD,SOFR
+SYN-LN-00205,SYN-OB-0197,Westhaven Inc. 197,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,290,,0,2032-10-15,0.225,96.75,4,USD,SOFR
+SYN-LN-00206,SYN-OB-0198,Willow Corp. 198,1182000,B-,Machinery,United States,1st Lien,Floating,475,,0,2033-09-30,0.445,101.5,4,USD,SOFR
+SYN-LN-00207,SYN-OB-0199,Windward Group 199,1182000,BB,Electric Utilities,United States,1st Lien,Floating,145,,0,2031-05-28,0.525,98.875,4,USD,SOFR
+SYN-LN-00208,SYN-OB-0200,Woodland LLC 200,630000,B,Food Products,Germany,Sr Secured,Fixed,,0.033625,,2034-04-30,0.37,99.25,2,USD,
+SYN-LN-00209,SYN-OB-0201,Alder Holdings 201,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,335,,0,2034-06-15,0.35,97.625,4,USD,SOFR
+SYN-LN-00210,SYN-OB-0202,Amber Inc. 202,630000,BB,Food Products,Canada,1st Lien,Fixed,,0.033625,,2029-07-30,0.355,98.875,2,USD,
+SYN-LN-00211,SYN-OB-0203,Arbor Corp. 203,1182000,B,Building Products,United States,1st Lien,Floating,230,,0,2032-04-15,0.335,100.5,4,USD,SOFR
+SYN-LN-00212,SYN-OB-0204,Atlas Group 204,1182000,BB,Construction Materials,United States,1st Lien,Floating,310,,0,2034-10-30,0.37,101.25,4,USD,SOFR
+SYN-LN-00213,SYN-OB-0205,Beacon LLC 205,630000,B-,"Textiles, Apparel & Luxury Goods",Canada,1st Lien,Floating,280,,50,2030-07-28,0.35,99.375,4,USD,SOFR
+SYN-LN-00214,SYN-OB-0206,Bluewater Holdings 206,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,235,,0,2032-03-28,0.325,100.125,4,USD,SOFR
+SYN-LN-00215,SYN-OB-0207,Bracken Inc. 207,1182000,BB+,Broadline retail,United States,1st Lien,Floating,205,,0,2032-07-30,0.2,99.5,4,USD,SOFR
+SYN-LN-00216,SYN-OB-0208,Cedar Corp. 208,630000,B+,"Hotels, Restaurants & Leisure",Luxembourg,Senior,Floating,225,,0,2031-04-28,0.46,97.875,4,USD,SOFR
+SYN-LN-00217,SYN-OB-0209,Cobalt Group 209,1182000,B+,Aerospace & Defense,United States,1st Lien,Floating,275,,0,2032-11-28,0.53,99.5,4,USD,SOFR
+SYN-LN-00218,SYN-OB-0210,Copper LLC 210,1182000,BB+,Capital Markets,United States,1st Lien,Floating,275,,0,2033-04-15,0.555,100.375,4,USD,SOFR
+SYN-LN-00219,SYN-OB-0211,Crest Holdings 211,1182000,B-,Distributors,United States,1st Lien,Floating,215,,0,2030-11-28,0.345,101.5,4,USD,SOFR
+SYN-LN-00220,SYN-OB-0212,Duneland Inc. 212,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2031-10-30,0.485,99.875,4,USD,SOFR
+SYN-LN-00221,SYN-OB-0213,Elmstone Corp. 213,630000,BBB+,Passenger airlines,Canada,1st Lien,Floating,335,,50,2030-07-28,0.405,98.25,4,USD,SOFR
+SYN-LN-00222,SYN-OB-0214,Evergreen Group 214,1182000,BB-,Food Products,United States,1st Lien,Floating,115,,0,2032-11-15,0.43,101.5,4,USD,SOFR
+SYN-LN-00223,SYN-OB-0215,Fairhaven LLC 215,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-09-30,0.325,95.625,4,USD,SOFR
+SYN-LN-00224,SYN-OB-0216,Granite Holdings 216,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2033-02-28,0.46,101.5,4,USD,SOFR
+SYN-LN-00225,SYN-OB-0217,Harbor Inc. 217,1182000,B,Capital Markets,United States,1st Lien,Floating,245,,0,2033-07-15,0.33,101.5,4,USD,SOFR
+SYN-LN-00226,SYN-OB-0218,Hawthorne Corp. 218,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,160,,0,2032-07-28,0.395,100.875,4,USD,SOFR
+SYN-LN-00227,SYN-OB-0219,Highland Group 219,1182000,B+,Electric Utilities,United States,1st Lien,Floating,150,,0,2032-10-28,0.41,100,4,USD,SOFR
+SYN-LN-00228,SYN-OB-0220,Ironwood LLC 220,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,315,,0,2030-12-15,0.37,95.875,4,USD,SOFR
+SYN-LN-00229,SYN-OB-0221,Juniper Holdings 221,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,295,,0,2031-05-30,0.565,97.5,4,USD,SOFR
+SYN-LN-00230,SYN-OB-0222,Keystone Inc. 222,1182000,BB,Leisure Products,United Kingdom,1st Lien,Floating,150,,0,2034-02-28,0.215,99.125,4,USD,SOFR
+SYN-LN-00231,SYN-OB-0223,Lakeview Corp. 223,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,405,,0,2033-03-28,0.305,98.375,4,USD,SOFR
+SYN-LN-00232,SYN-OB-0224,Larkspur Group 224,650000,BB-,Automobiles,United States,1st Lien,Floating,215,,0,2032-11-15,0.635,96.875,4,USD,SOFR
+SYN-LN-00233,SYN-OB-0224,Larkspur Group 224,532000,BB-,Automobiles,United States,1st Lien,Floating,225,,75,2033-01-28,0.635,97,4,USD,SOFR
+SYN-LN-00234,SYN-OB-0225,Maple LLC 225,1182000,BB-,Communications Equipment,United Kingdom,1st Lien,Floating,275,,0,2032-08-28,0.545,99.375,4,USD,SOFR
+SYN-LN-00235,SYN-OB-0226,Meridian Holdings 226,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,380,,0,2030-11-28,0.315,100.75,4,USD,SOFR
+SYN-LN-00236,SYN-OB-0227,Northfield Inc. 227,1182000,BB+,Broadline retail,United States,1st Lien,Floating,215,,0,2032-10-30,0.325,99,4,USD,SOFR
+SYN-LN-00237,SYN-OB-0228,Oakmont Corp. 228,1182000,BB-,Ground transportation,United States,1st Lien,Floating,230,,0,2033-12-28,0.275,93,4,USD,SOFR
+SYN-LN-00238,SYN-OB-0229,Orchard Group 229,1182000,B+,Ground transportation,United States,1st Lien,Floating,275,,0,2033-01-28,0.335,100.5,4,USD,SOFR
+SYN-LN-00239,SYN-OB-0230,Pinecrest LLC 230,630000,BBB-,"Oil, Gas & Consumable Fuels",Ireland,1st Lien,Floating,255,,50,2033-09-15,0.375,101.5,4,USD,SOFR
+SYN-LN-00240,SYN-OB-0231,Redwood Holdings 231,1182000,B,Food Products,United States,1st Lien,Floating,300,,0,2032-09-15,0.275,98.375,4,USD,SOFR
+SYN-LN-00241,SYN-OB-0232,Riverton Inc. 232,1182000,B,Auto Components,United States,1st Lien,Floating,270,,0,2033-11-15,0.415,101.375,4,USD,SOFR
+SYN-LN-00242,SYN-OB-0233,Silver Corp. 233,1185000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2032-01-15,0.375,98.5,4,USD,SOFR
+SYN-LN-00243,SYN-OB-0234,Stonebridge Group 234,1182000,B-,Machinery,United States,1st Lien,Floating,280,,0,2031-04-28,0.315,98,4,USD,SOFR
+SYN-LN-00244,SYN-OB-0235,Summit LLC 235,1182000,B-,Software,United States,1st Lien,Floating,275,,0,2030-05-15,0.41,99.375,4,USD,SOFR
+SYN-LN-00245,SYN-OB-0236,Timber Holdings 236,1182000,BB+,Transportation Infrastructure,United States,1st Lien,Floating,180,,0,2031-09-15,0.435,99.375,4,USD,SOFR
+SYN-LN-00246,SYN-OB-0237,Westhaven Inc. 237,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,390,,0,2033-04-15,0.36,99.125,4,USD,SOFR
+SYN-LN-00247,SYN-OB-0238,Willow Corp. 238,1182000,B,Chemicals,United States,1st Lien,Floating,310,,0,2031-04-30,0.405,100.75,4,USD,SOFR
+SYN-LN-00248,SYN-OB-0239,Windward Group 239,1182000,B-,Software,United States,1st Lien,Floating,385,,0,2033-09-28,0.49,100.375,4,USD,SOFR
+SYN-LN-00249,SYN-OB-0240,Woodland LLC 240,1182000,B-,Software,United States,1st Lien,Floating,330,,0,2030-02-28,0.375,97.75,4,USD,SOFR
+SYN-LN-00250,SYN-OB-0241,Alder Holdings 241,1182000,B-,Software,United States,1st Lien,Floating,345,,0,2030-12-30,0.42,101.5,4,USD,SOFR
+SYN-LN-00251,SYN-OB-0242,Amber Inc. 242,1182000,B+,Media,United States,1st Lien,Floating,280,,0,2032-03-15,0.31,99,4,USD,SOFR
+SYN-LN-00252,SYN-OB-0243,Arbor Corp. 243,1202000,B,Healthcare Providers & Services,United States,1st Lien,Floating,395,,0,2033-08-28,0.385,100.125,4,USD,SOFR
+SYN-LN-00253,SYN-OB-0244,Atlas Group 244,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,215,,0,2031-12-15,0.265,100.875,4,USD,SOFR
+SYN-LN-00254,SYN-OB-0245,Beacon LLC 245,630000,B-,Diversified Telecommunication Services,Switzerland,1st Lien,Fixed,,0.033625,,2031-04-28,0.4,100.5,2,USD,
+SYN-LN-00255,SYN-OB-0246,Bluewater Holdings 246,1182000,BB,Trading Companies & Distributors,United States,1st Lien,Floating,310,,0,2032-09-28,0.485,101.5,4,USD,SOFR
+SYN-LN-00256,SYN-OB-0247,Bracken Inc. 247,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-04-28,0.42,100.25,4,USD,SOFR
+SYN-LN-00257,SYN-OB-0248,Cedar Corp. 248,630000,BB-,Beverages,Germany,1st Lien,Floating,235,,0,2033-03-28,0.57,100.625,4,USD,SOFR
+SYN-LN-00258,SYN-OB-0249,Cobalt Group 249,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2033-11-30,0.45,96.875,4,USD,SOFR
+SYN-LN-00259,SYN-OB-0250,Copper LLC 250,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,275,,0,2034-02-28,0.2,100.875,4,USD,SOFR
+SYN-LN-00260,SYN-OB-0251,Crest Holdings 251,630000,BB,Construction Materials,Australia,1st Lien,Floating,215,,0,2032-07-28,0.485,101.375,4,USD,SOFR
+SYN-LN-00261,SYN-OB-0252,Duneland Inc. 252,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2030-12-15,0.235,101.5,4,USD,SOFR
+SYN-LN-00262,SYN-OB-0253,Elmstone Corp. 253,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,310,,0,2031-10-15,0.41,101.5,4,USD,SOFR
+SYN-LN-00263,SYN-OB-0254,Evergreen Group 254,1182000,B,Software,United States,1st Lien,Floating,160,,0,2031-08-28,0.325,96.875,4,USD,SOFR
+SYN-LN-00264,SYN-OB-0255,Fairhaven LLC 255,1182000,B+,Insurance,United States,1st Lien,Floating,325,,0,2032-11-30,0.665,101.5,4,USD,SOFR
+SYN-LN-00265,SYN-OB-0256,Granite Holdings 256,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,315,,0,2032-12-28,0.29,99.25,4,USD,SOFR
+SYN-LN-00266,SYN-OB-0257,Harbor Inc. 257,1182000,B+,Insurance,United States,1st Lien,Floating,225,,0,2031-05-15,0.435,99.875,4,USD,SOFR
+SYN-LN-00267,SYN-OB-0258,Hawthorne Corp. 258,1182000,B+,Insurance,United States,1st Lien,Floating,340,,0,2034-06-30,0.455,97.5,4,USD,SOFR
+SYN-LN-00268,SYN-OB-0259,Highland Group 259,710000,B-,Containers & Packaging,United States,1st Lien,Floating,210,,50,2035-09-15,0.34,99,4,USD,SOFR
+SYN-LN-00269,SYN-OB-0259,Highland Group 259,472000,B-,Containers & Packaging,United States,1st Lien,Floating,220,,0,2035-11-30,0.34,99.125,4,USD,SOFR
+SYN-LN-00270,SYN-OB-0260,Ironwood LLC 260,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,355,,0,2032-11-15,0.375,98.5,4,USD,SOFR
+SYN-LN-00271,SYN-OB-0261,Juniper Holdings 261,1182000,BB-,Food Products,United States,1st Lien,Floating,300,,0,2032-10-28,0.535,99,4,USD,SOFR
+SYN-LN-00272,SYN-OB-0262,Keystone Inc. 262,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,325,,0,2031-11-15,0.54,101.5,4,USD,SOFR
+SYN-LN-00273,SYN-OB-0263,Lakeview Corp. 263,630000,BBB+,Passenger airlines,Luxembourg,1st Lien,Fixed,,0.041875,,2031-07-28,0.27,88.125,2,USD,
+SYN-LN-00274,SYN-OB-0264,Larkspur Group 264,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-05-28,0.375,99.5,4,USD,SOFR
+SYN-LN-00275,SYN-OB-0265,Maple LLC 265,1182000,B-,Communications Equipment,United Kingdom,1st Lien,Floating,440,,0,2029-04-15,0.45,99.75,4,USD,SOFR
+SYN-LN-00276,SYN-OB-0266,Meridian Holdings 266,1182000,BB,Construction Materials,United States,1st Lien,Floating,230,,0,2030-09-28,0.335,100,4,USD,SOFR
+SYN-LN-00277,SYN-OB-0267,Northfield Inc. 267,790000,BB-,Food Products,United States,1st Lien,Floating,135,,0,2033-03-15,0.375,99.5,4,USD,SOFR
+SYN-LN-00278,SYN-OB-0267,Northfield Inc. 267,392000,BB-,Food Products,United States,1st Lien,Floating,145,,50,2033-05-15,0.375,99.625,4,USD,SOFR
+SYN-LN-00279,SYN-OB-0268,Oakmont Corp. 268,780000,BB-,Food Products,United States,1st Lien,Floating,295,,0,2033-01-28,0.47,101.5,4,USD,SOFR
+SYN-LN-00280,SYN-OB-0268,Oakmont Corp. 268,402000,BB-,Food Products,United States,1st Lien,Floating,305,,75,2033-03-15,0.47,101.625,4,USD,SOFR
+SYN-LN-00281,SYN-OB-0269,Orchard Group 269,1182000,BB-,Household Durables,United States,1st Lien,Floating,280,,0,2031-04-30,0.475,100.375,4,USD,SOFR
+SYN-LN-00282,SYN-OB-0270,Pinecrest LLC 270,1182000,B-,Pharmaceuticals,Luxembourg,1st Lien,Floating,435,,0,2029-07-15,0.435,100.375,4,USD,SOFR

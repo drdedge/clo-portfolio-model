@@ -1,0 +1,565 @@
+instrument_id,obligor_id,obligor_name,par,sp_rating,sp_industry,country,seniority,rate_type,spread_bps,fixed_coupon_rate,floor_bps,maturity_date,recovery_aaa,price,payment_frequency,currency,benchmark
+LARGE1-SYN-LN-00001,LARGE1-SYN-OB-0001,Large fixture 1 Alder Holdings 001,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,220,,0,2033-10-30,0.395,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00002,LARGE1-SYN-OB-0002,Large fixture 1 Amber Inc. 002,586000,BBB,IT Services,United Kingdom,Sr Unsec,Floating,220,,0,2031-02-15,0.2,96.5,4,USD,SOFR
+LARGE1-SYN-LN-00003,LARGE1-SYN-OB-0003,Large fixture 1 Arbor Corp. 003,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,255,,0,2032-04-15,0.405,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00004,LARGE1-SYN-OB-0004,Large fixture 1 Atlas Group 004,1182000,B-,Financial services,United States,1st Lien,Floating,575,,0,2031-04-30,0.305,101.25,4,USD,SOFR
+LARGE1-SYN-LN-00005,LARGE1-SYN-OB-0005,Large fixture 1 Beacon LLC 005,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-03-30,0.36,96.75,4,USD,SOFR
+LARGE1-SYN-LN-00006,LARGE1-SYN-OB-0006,Large fixture 1 Bluewater Holdings 006,1182000,B,Chemicals,United States,1st Lien,Floating,325,,0,2033-01-15,0.43,99,4,USD,SOFR
+LARGE1-SYN-LN-00007,LARGE1-SYN-OB-0007,Large fixture 1 Bracken Inc. 007,1182000,B,Building Products,United States,1st Lien,Floating,290,,0,2029-01-15,0.45,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00008,LARGE1-SYN-OB-0008,Large fixture 1 Cedar Corp. 008,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,110,,0,2032-10-30,0.49,98.5,4,USD,SOFR
+LARGE1-SYN-LN-00009,LARGE1-SYN-OB-0009,Large fixture 1 Cobalt Group 009,1182000,BB-,Diversified Telecommunication Services,United States,1st Lien,Floating,330,,0,2033-06-15,0.2,99.75,4,USD,SOFR
+LARGE1-SYN-LN-00010,LARGE1-SYN-OB-0010,Large fixture 1 Copper LLC 010,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2031-10-30,0.525,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00011,LARGE1-SYN-OB-0011,Large fixture 1 Crest Holdings 011,570000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,130,,0,2033-10-15,0.395,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00012,LARGE1-SYN-OB-0011,Large fixture 1 Crest Holdings 011,612000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,140,,0,2033-12-15,0.395,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00013,LARGE1-SYN-OB-0012,Large fixture 1 Duneland Inc. 012,650000,B+,Industrial Conglomerates,United States,1st Lien,Floating,280,,50,2031-06-15,0.285,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00014,LARGE1-SYN-OB-0012,Large fixture 1 Duneland Inc. 012,532000,B+,Industrial Conglomerates,United States,1st Lien,Floating,290,,0,2031-08-28,0.285,99.75,4,USD,SOFR
+LARGE1-SYN-LN-00015,LARGE1-SYN-OB-0013,Large fixture 1 Elmstone Corp. 013,1182000,BB,Construction Materials,United States,1st Lien,Floating,195,,0,2031-06-28,0.315,99.25,4,USD,SOFR
+LARGE1-SYN-LN-00016,LARGE1-SYN-OB-0014,Large fixture 1 Evergreen Group 014,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2032-03-15,0.725,98.125,4,USD,SOFR
+LARGE1-SYN-LN-00017,LARGE1-SYN-OB-0015,Large fixture 1 Fairhaven LLC 015,630000,BB-,Beverages,Switzerland,Sr Secured,Fixed,,0.0455,,2034-02-28,0.325,99,2,USD,
+LARGE1-SYN-LN-00018,LARGE1-SYN-OB-0016,Large fixture 1 Granite Holdings 016,1182000,BB,Banks,United States,1st Lien,Floating,285,,0,2030-08-15,0.45,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00019,LARGE1-SYN-OB-0017,Large fixture 1 Harbor Inc. 017,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,280,,0,2032-05-15,0.235,95.375,4,USD,SOFR
+LARGE1-SYN-LN-00020,LARGE1-SYN-OB-0018,Large fixture 1 Hawthorne Corp. 018,1182000,B+,Passenger airlines,United States,1st Lien,Floating,290,,0,2030-11-30,0.495,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00021,LARGE1-SYN-OB-0019,Large fixture 1 Highland Group 019,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,150,,0,2031-04-28,0.275,99.25,4,USD,SOFR
+LARGE1-SYN-LN-00022,LARGE1-SYN-OB-0020,Large fixture 1 Ironwood LLC 020,1182000,BBB-,Capital Markets,United States,1st Lien,Floating,225,,0,2033-02-28,0.37,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00023,LARGE1-SYN-OB-0021,Large fixture 1 Juniper Holdings 021,1182000,BB,Healthcare Technology,United States,1st Lien,Floating,215,,0,2032-11-30,0.435,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00024,LARGE1-SYN-OB-0022,Large fixture 1 Keystone Inc. 022,1182000,B+,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2034-07-15,0.435,98.75,4,USD,SOFR
+LARGE1-SYN-LN-00025,LARGE1-SYN-OB-0023,Large fixture 1 Lakeview Corp. 023,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,290,,0,2030-12-28,0.27,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00026,LARGE1-SYN-OB-0024,Large fixture 1 Larkspur Group 024,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,405,,0,2029-12-28,0.285,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00027,LARGE1-SYN-OB-0025,Large fixture 1 Maple LLC 025,1182000,BB-,Broadline retail,United States,1st Lien,Floating,235,,0,2033-05-28,0.475,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00028,LARGE1-SYN-OB-0026,Large fixture 1 Meridian Holdings 026,1182000,BB-,Household Products,United States,1st Lien,Floating,295,,0,2032-10-28,0.365,97,4,USD,SOFR
+LARGE1-SYN-LN-00029,LARGE1-SYN-OB-0027,Large fixture 1 Northfield Inc. 027,630000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,365,,50,2035-09-30,0.43,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00030,LARGE1-SYN-OB-0028,Large fixture 1 Oakmont Corp. 028,1182000,B-,Financial services,United States,1st Lien,Floating,330,,0,2032-11-15,0.385,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00031,LARGE1-SYN-OB-0029,Large fixture 1 Orchard Group 029,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,375,,0,2032-03-28,0.295,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00032,LARGE1-SYN-OB-0030,Large fixture 1 Pinecrest LLC 030,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,435,,0,2033-01-28,0.325,100.625,4,USD,SOFR
+LARGE1-SYN-LN-00033,LARGE1-SYN-OB-0031,Large fixture 1 Redwood Holdings 031,1182000,B+,Professional Services,United States,1st Lien,Floating,430,,0,2033-11-15,0.335,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00034,LARGE1-SYN-OB-0032,Large fixture 1 Riverton Inc. 032,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,325,,0,2031-05-15,0.355,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00035,LARGE1-SYN-OB-0033,Large fixture 1 Silver Corp. 033,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,430,,0,2031-06-15,0.435,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00036,LARGE1-SYN-OB-0034,Large fixture 1 Stonebridge Group 034,1182000,B,Building Products,United States,1st Lien,Floating,275,,0,2031-11-30,0.36,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00037,LARGE1-SYN-OB-0035,Large fixture 1 Summit LLC 035,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,220,,0,2031-07-28,0.2,97.25,4,USD,SOFR
+LARGE1-SYN-LN-00038,LARGE1-SYN-OB-0036,Large fixture 1 Timber Holdings 036,1182000,B-,Machinery,United States,1st Lien,Floating,460,,0,2033-02-28,0.47,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00039,LARGE1-SYN-OB-0037,Large fixture 1 Westhaven Inc. 037,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,150,,0,2029-07-28,0.34,98.75,4,USD,SOFR
+LARGE1-SYN-LN-00040,LARGE1-SYN-OB-0038,Large fixture 1 Willow Corp. 038,630000,BB,Auto Components,Canada,1st Lien,Floating,295,,50,2032-12-15,0.62,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00041,LARGE1-SYN-OB-0039,Large fixture 1 Windward Group 039,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,220,,0,2033-06-15,0.415,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00042,LARGE1-SYN-OB-0040,Large fixture 1 Woodland LLC 040,1182000,BB,Interactive media and services,United States,1st Lien,Floating,305,,0,2032-11-30,0.545,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00043,LARGE1-SYN-OB-0041,Large fixture 1 Alder Holdings 041,1182000,B,IT Services,United States,1st Lien,Floating,270,,0,2033-10-30,0.28,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00044,LARGE1-SYN-OB-0042,Large fixture 1 Amber Inc. 042,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,330,,0,2031-11-30,0.425,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00045,LARGE1-SYN-OB-0043,Large fixture 1 Arbor Corp. 043,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,365,,0,2033-09-30,0.39,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00046,LARGE1-SYN-OB-0044,Large fixture 1 Atlas Group 044,1182000,B+,Electric Utilities,United States,1st Lien,Floating,300,,0,2033-11-28,0.43,101.125,4,USD,SOFR
+LARGE1-SYN-LN-00047,LARGE1-SYN-OB-0045,Large fixture 1 Beacon LLC 045,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,360,,0,2033-12-15,0.305,98.75,4,USD,SOFR
+LARGE1-SYN-LN-00048,LARGE1-SYN-OB-0046,Large fixture 1 Bluewater Holdings 046,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,365,,0,2030-12-15,0.445,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00049,LARGE1-SYN-OB-0047,Large fixture 1 Bracken Inc. 047,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,430,,0,2029-11-15,0.375,95.5,4,USD,SOFR
+LARGE1-SYN-LN-00050,LARGE1-SYN-OB-0048,Large fixture 1 Cedar Corp. 048,630000,BBB-,Financial services,Netherlands,Sr Secured,Floating,210,,50,2030-05-15,0.33,97.625,4,USD,SOFR
+LARGE1-SYN-LN-00051,LARGE1-SYN-OB-0049,Large fixture 1 Cobalt Group 049,1182000,BB,Banks,United States,1st Lien,Floating,260,,0,2030-02-15,0.515,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00052,LARGE1-SYN-OB-0050,Large fixture 1 Copper LLC 050,630000,BB+,Construction & Engineering,United States,1st Lien,Floating,195,,50,2030-11-28,0.475,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00053,LARGE1-SYN-OB-0051,Large fixture 1 Crest Holdings 051,1182000,BB-,Food Products,United Kingdom,1st Lien,Floating,355,,0,2032-07-28,0.4,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00054,LARGE1-SYN-OB-0052,Large fixture 1 Duneland Inc. 052,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2032-11-28,0.37,95.875,4,USD,SOFR
+LARGE1-SYN-LN-00055,LARGE1-SYN-OB-0053,Large fixture 1 Elmstone Corp. 053,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,195,,0,2030-08-15,0.49,101.25,4,USD,SOFR
+LARGE1-SYN-LN-00056,LARGE1-SYN-OB-0054,Large fixture 1 Evergreen Group 054,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,335,,0,2033-04-30,0.2,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00057,LARGE1-SYN-OB-0055,Large fixture 1 Fairhaven LLC 055,630000,B-,Healthcare Providers & Services,Austria,1st Lien,Floating,425,,50,2032-09-28,0.405,96.25,4,USD,SOFR
+LARGE1-SYN-LN-00058,LARGE1-SYN-OB-0056,Large fixture 1 Granite Holdings 056,630000,BBB+,Leisure Products,United Kingdom,1st Lien,Floating,265,,50,2030-07-15,0.495,95.375,4,USD,SOFR
+LARGE1-SYN-LN-00059,LARGE1-SYN-OB-0057,Large fixture 1 Harbor Inc. 057,1182000,BB+,Leisure Products,United States,1st Lien,Floating,190,,0,2033-01-30,0.46,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00060,LARGE1-SYN-OB-0058,Large fixture 1 Hawthorne Corp. 058,1182000,BB-,Household Products,United States,1st Lien,Floating,265,,0,2033-12-28,0.35,96,4,USD,SOFR
+LARGE1-SYN-LN-00061,LARGE1-SYN-OB-0059,Large fixture 1 Highland Group 059,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,410,,0,2031-12-15,0.45,96.5,4,USD,SOFR
+LARGE1-SYN-LN-00062,LARGE1-SYN-OB-0060,Large fixture 1 Ironwood LLC 060,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,275,,0,2034-05-30,0.43,101.25,4,USD,SOFR
+LARGE1-SYN-LN-00063,LARGE1-SYN-OB-0061,Large fixture 1 Juniper Holdings 061,630000,B+,Electric Utilities,Ireland,1st Lien,Floating,300,,0,2032-09-30,0.415,100,4,USD,SOFR
+LARGE1-SYN-LN-00064,LARGE1-SYN-OB-0062,Large fixture 1 Keystone Inc. 062,1182000,B+,Electric Utilities,United States,1st Lien,Floating,285,,0,2033-04-30,0.375,97.625,4,USD,SOFR
+LARGE1-SYN-LN-00065,LARGE1-SYN-OB-0063,Large fixture 1 Lakeview Corp. 063,1182000,B-,Software,United States,1st Lien,Floating,515,,0,2031-02-28,0.3,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00066,LARGE1-SYN-OB-0064,Large fixture 1 Larkspur Group 064,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,455,,0,2031-01-28,0.33,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00067,LARGE1-SYN-OB-0065,Large fixture 1 Maple LLC 065,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,225,,0,2030-09-30,0.2,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00068,LARGE1-SYN-OB-0066,Large fixture 1 Meridian Holdings 066,1182000,B-,Financial services,United States,1st Lien,Floating,365,,0,2030-10-30,0.395,98,4,USD,SOFR
+LARGE1-SYN-LN-00069,LARGE1-SYN-OB-0067,Large fixture 1 Northfield Inc. 067,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,215,,0,2030-06-28,0.55,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00070,LARGE1-SYN-OB-0068,Large fixture 1 Oakmont Corp. 068,1182000,B,Chemicals,United States,1st Lien,Floating,190,,0,2031-09-28,0.31,100,4,USD,SOFR
+LARGE1-SYN-LN-00071,LARGE1-SYN-OB-0069,Large fixture 1 Orchard Group 069,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,335,,0,2034-01-15,0.39,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00072,LARGE1-SYN-OB-0070,Large fixture 1 Pinecrest LLC 070,630000,B,Electrical Equipment,United States,1st Lien,Floating,115,,0,2031-06-15,0.225,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00073,LARGE1-SYN-OB-0071,Large fixture 1 Redwood Holdings 071,1182000,B-,Specialty Retail,United States,1st Lien,Floating,200,,0,2034-05-15,0.445,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00074,LARGE1-SYN-OB-0072,Large fixture 1 Riverton Inc. 072,630000,A-,Building Products,Germany,1st Lien,Floating,335,,0,2032-11-15,0.305,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00075,LARGE1-SYN-OB-0073,Large fixture 1 Silver Corp. 073,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,405,,0,2032-09-28,0.31,97.125,4,USD,SOFR
+LARGE1-SYN-LN-00076,LARGE1-SYN-OB-0074,Large fixture 1 Stonebridge Group 074,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,240,,0,2032-01-30,0.39,98,4,USD,SOFR
+LARGE1-SYN-LN-00077,LARGE1-SYN-OB-0075,Large fixture 1 Summit LLC 075,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2032-08-15,0.365,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00078,LARGE1-SYN-OB-0076,Large fixture 1 Timber Holdings 076,770000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2032-05-28,0.345,101,4,USD,SOFR
+LARGE1-SYN-LN-00079,LARGE1-SYN-OB-0076,Large fixture 1 Timber Holdings 076,412000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,210,,50,2032-07-30,0.345,101.125,4,USD,SOFR
+LARGE1-SYN-LN-00080,LARGE1-SYN-OB-0077,Large fixture 1 Westhaven Inc. 077,1182000,B,IT Services,United States,1st Lien,Floating,135,,0,2033-10-28,0.325,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00081,LARGE1-SYN-OB-0078,Large fixture 1 Willow Corp. 078,1182000,B,IT Services,United States,1st Lien,Floating,325,,0,2032-09-30,0.485,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00082,LARGE1-SYN-OB-0079,Large fixture 1 Windward Group 079,1182000,B,Construction & Engineering,United States,1st Lien,Floating,380,,0,2032-11-28,0.405,96.875,4,USD,SOFR
+LARGE1-SYN-LN-00083,LARGE1-SYN-OB-0080,Large fixture 1 Woodland LLC 080,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,315,,0,2031-04-28,0.255,95.75,4,USD,SOFR
+LARGE1-SYN-LN-00084,LARGE1-SYN-OB-0081,Large fixture 1 Alder Holdings 081,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,230,,0,2031-10-28,0.37,98.75,4,USD,SOFR
+LARGE1-SYN-LN-00085,LARGE1-SYN-OB-0082,Large fixture 1 Amber Inc. 082,630000,BBB-,Media,Netherlands,1st Lien,Floating,245,,50,2033-09-28,0.5,97.125,4,USD,SOFR
+LARGE1-SYN-LN-00086,LARGE1-SYN-OB-0083,Large fixture 1 Arbor Corp. 083,1182000,BB+,Specialty Retail,United States,1st Lien,Floating,240,,0,2031-10-15,0.415,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00087,LARGE1-SYN-OB-0084,Large fixture 1 Atlas Group 084,630000,BB+,Leisure Products,United Kingdom,1st Lien,Floating,190,,0,2032-12-28,0.305,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00088,LARGE1-SYN-OB-0085,Large fixture 1 Beacon LLC 085,1182000,B,Building Products,United States,1st Lien,Floating,200,,0,2031-06-30,0.47,98.625,4,USD,SOFR
+LARGE1-SYN-LN-00089,LARGE1-SYN-OB-0086,Large fixture 1 Bluewater Holdings 086,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,115,,0,2032-06-28,0.5,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00090,LARGE1-SYN-OB-0087,Large fixture 1 Bracken Inc. 087,1182000,B+,Media,United States,1st Lien,Floating,270,,0,2030-09-15,0.595,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00091,LARGE1-SYN-OB-0088,Large fixture 1 Cedar Corp. 088,630000,BBB-,Electrical Equipment,United States,Senior,Floating,225,,50,2032-09-30,0.495,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00092,LARGE1-SYN-OB-0089,Large fixture 1 Cobalt Group 089,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2032-05-30,0.31,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00093,LARGE1-SYN-OB-0090,Large fixture 1 Copper LLC 090,1182000,B,Auto Components,United States,1st Lien,Floating,320,,0,2032-08-15,0.2,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00094,LARGE1-SYN-OB-0091,Large fixture 1 Crest Holdings 091,1182000,B,Media,United States,1st Lien,Floating,340,,0,2034-02-28,0.425,100,4,USD,SOFR
+LARGE1-SYN-LN-00095,LARGE1-SYN-OB-0092,Large fixture 1 Duneland Inc. 092,630000,B+,Gas Utilities,Germany,1st Lien,Floating,115,,0,2029-01-15,0.68,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00096,LARGE1-SYN-OB-0093,Large fixture 1 Elmstone Corp. 093,1182000,B-,"Textiles, Apparel & Luxury Goods",United States,1st Lien,Floating,395,,0,2032-02-28,0.44,99.75,4,USD,SOFR
+LARGE1-SYN-LN-00097,LARGE1-SYN-OB-0094,Large fixture 1 Evergreen Group 094,770000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,370,,0,2031-11-28,0.52,98,4,USD,SOFR
+LARGE1-SYN-LN-00098,LARGE1-SYN-OB-0094,Large fixture 1 Evergreen Group 094,412000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,380,,0,2032-01-30,0.52,98.125,4,USD,SOFR
+LARGE1-SYN-LN-00099,LARGE1-SYN-OB-0095,Large fixture 1 Fairhaven LLC 095,1182000,BB+,Pharmaceuticals,Luxembourg,1st Lien,Floating,215,,0,2033-01-28,0.34,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00100,LARGE1-SYN-OB-0096,Large fixture 1 Granite Holdings 096,1182000,B,"Electronic Equipment, Instruments & Components",United Kingdom,1st Lien,Floating,265,,0,2031-11-28,0.41,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00101,LARGE1-SYN-OB-0097,Large fixture 1 Harbor Inc. 097,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,220,,0,2033-02-15,0.305,96.625,4,USD,SOFR
+LARGE1-SYN-LN-00102,LARGE1-SYN-OB-0098,Large fixture 1 Hawthorne Corp. 098,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,285,,0,2031-08-30,0.595,98.125,4,USD,SOFR
+LARGE1-SYN-LN-00103,LARGE1-SYN-OB-0099,Large fixture 1 Highland Group 099,1182000,B,Financial services,United States,1st Lien,Floating,175,,0,2030-03-30,0.475,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00104,LARGE1-SYN-OB-0100,Large fixture 1 Ironwood LLC 100,1182000,B-,Machinery,United States,1st Lien,Floating,380,,0,2034-02-28,0.365,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00105,LARGE1-SYN-OB-0101,Large fixture 1 Juniper Holdings 101,1182000,B-,Consumer Finance,United States,1st Lien,Floating,210,,0,2031-12-15,0.535,96.875,4,USD,SOFR
+LARGE1-SYN-LN-00106,LARGE1-SYN-OB-0102,Large fixture 1 Keystone Inc. 102,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,175,,0,2030-11-28,0.43,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00107,LARGE1-SYN-OB-0103,Large fixture 1 Lakeview Corp. 103,1182000,BB-,Real Estate Management & Development,United States,1st Lien,Floating,220,,0,2033-12-30,0.48,94.875,4,USD,SOFR
+LARGE1-SYN-LN-00108,LARGE1-SYN-OB-0104,Large fixture 1 Larkspur Group 104,630000,B-,Software,United States,1st Lien,Fixed,,0.046875,,2029-10-28,0.465,99,2,USD,
+LARGE1-SYN-LN-00109,LARGE1-SYN-OB-0105,Large fixture 1 Maple LLC 105,1182000,B,Construction & Engineering,United States,1st Lien,Floating,350,,0,2034-05-28,0.335,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00110,LARGE1-SYN-OB-0106,Large fixture 1 Meridian Holdings 106,1182000,B+,Electric Utilities,United States,1st Lien,Floating,340,,0,2030-03-28,0.375,99,4,USD,SOFR
+LARGE1-SYN-LN-00111,LARGE1-SYN-OB-0107,Large fixture 1 Northfield Inc. 107,630000,A-,Diversified Consumer Services,Netherlands,1st Lien,Floating,325,,0,2032-01-30,0.565,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00112,LARGE1-SYN-OB-0108,Large fixture 1 Oakmont Corp. 108,630000,B,Wireless Telecommunication Services,Luxembourg,1st Lien,Floating,315,,50,2031-10-28,0.37,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00113,LARGE1-SYN-OB-0109,Large fixture 1 Orchard Group 109,1220000,B,Healthcare Providers & Services,United States,1st Lien,Floating,255,,0,2032-08-28,0.455,97.75,4,USD,SOFR
+LARGE1-SYN-LN-00114,LARGE1-SYN-OB-0110,Large fixture 1 Pinecrest LLC 110,1182000,B,Chemicals,Netherlands,1st Lien,Floating,340,,0,2033-10-15,0.425,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00115,LARGE1-SYN-OB-0111,Large fixture 1 Redwood Holdings 111,1182000,B+,Media,United States,1st Lien,Floating,265,,0,2031-06-28,0.2,100.625,4,USD,SOFR
+LARGE1-SYN-LN-00116,LARGE1-SYN-OB-0112,Large fixture 1 Riverton Inc. 112,1182000,B,IT Services,United States,1st Lien,Floating,290,,0,2032-11-15,0.235,99.75,4,USD,SOFR
+LARGE1-SYN-LN-00117,LARGE1-SYN-OB-0113,Large fixture 1 Silver Corp. 113,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,365,,0,2031-09-28,0.24,100,4,USD,SOFR
+LARGE1-SYN-LN-00118,LARGE1-SYN-OB-0114,Large fixture 1 Stonebridge Group 114,1224000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2030-09-30,0.335,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00119,LARGE1-SYN-OB-0115,Large fixture 1 Summit LLC 115,610000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,255,,50,2031-12-15,0.505,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00120,LARGE1-SYN-OB-0115,Large fixture 1 Summit LLC 115,572000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,265,,50,2032-02-28,0.505,101.625,4,USD,SOFR
+LARGE1-SYN-LN-00121,LARGE1-SYN-OB-0116,Large fixture 1 Timber Holdings 116,1182000,B,Chemicals,United States,1st Lien,Floating,290,,0,2033-12-28,0.275,98.5,4,USD,SOFR
+LARGE1-SYN-LN-00122,LARGE1-SYN-OB-0117,Large fixture 1 Westhaven Inc. 117,630000,B+,"Hotels, Restaurants & Leisure",United Kingdom,Sr Unsec,Floating,235,,0,2032-02-15,0.2,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00123,LARGE1-SYN-OB-0118,Large fixture 1 Willow Corp. 118,1182000,B-,Consumer Finance,United States,1st Lien,Floating,380,,0,2032-11-30,0.495,100,4,USD,SOFR
+LARGE1-SYN-LN-00124,LARGE1-SYN-OB-0119,Large fixture 1 Windward Group 119,1182000,B-,Financial services,United States,1st Lien,Floating,250,,0,2032-06-30,0.35,98.625,4,USD,SOFR
+LARGE1-SYN-LN-00125,LARGE1-SYN-OB-0120,Large fixture 1 Woodland LLC 120,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,235,,0,2031-03-15,0.45,98.5,4,USD,SOFR
+LARGE1-SYN-LN-00126,LARGE1-SYN-OB-0121,Large fixture 1 Alder Holdings 121,1182000,B-,Software,United States,1st Lien,Floating,365,,0,2033-01-15,0.36,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00127,LARGE1-SYN-OB-0122,Large fixture 1 Amber Inc. 122,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,150,,0,2032-04-15,0.325,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00128,LARGE1-SYN-OB-0123,Large fixture 1 Arbor Corp. 123,1182000,B+,Media,United States,1st Lien,Floating,290,,0,2033-08-30,0.535,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00129,LARGE1-SYN-OB-0124,Large fixture 1 Atlas Group 124,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,260,,0,2032-11-28,0.285,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00130,LARGE1-SYN-OB-0125,Large fixture 1 Beacon LLC 125,1182000,B+,Insurance,United States,1st Lien,Floating,305,,0,2031-11-15,0.34,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00131,LARGE1-SYN-OB-0126,Large fixture 1 Bluewater Holdings 126,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,255,,0,2032-03-28,0.305,101.125,4,USD,SOFR
+LARGE1-SYN-LN-00132,LARGE1-SYN-OB-0127,Large fixture 1 Bracken Inc. 127,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,330,,0,2033-05-15,0.38,97.875,4,USD,SOFR
+LARGE1-SYN-LN-00133,LARGE1-SYN-OB-0128,Large fixture 1 Cedar Corp. 128,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-06-30,0.37,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00134,LARGE1-SYN-OB-0129,Large fixture 1 Cobalt Group 129,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,300,,0,2031-09-15,0.545,101.25,4,USD,SOFR
+LARGE1-SYN-LN-00135,LARGE1-SYN-OB-0130,Large fixture 1 Copper LLC 130,1182000,B,Chemicals,United States,1st Lien,Floating,265,,0,2031-01-15,0.35,96.625,4,USD,SOFR
+LARGE1-SYN-LN-00136,LARGE1-SYN-OB-0131,Large fixture 1 Crest Holdings 131,1182000,B,Chemicals,United States,1st Lien,Floating,295,,0,2032-07-30,0.22,96.125,4,USD,SOFR
+LARGE1-SYN-LN-00137,LARGE1-SYN-OB-0132,Large fixture 1 Duneland Inc. 132,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,290,,0,2031-07-30,0.505,98.625,4,USD,SOFR
+LARGE1-SYN-LN-00138,LARGE1-SYN-OB-0133,Large fixture 1 Elmstone Corp. 133,1182000,B,IT Services,United States,1st Lien,Floating,390,,0,2033-01-28,0.485,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00139,LARGE1-SYN-OB-0134,Large fixture 1 Evergreen Group 134,1198000,B,Software,United States,1st Lien,Floating,400,,0,2032-10-28,0.425,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00140,LARGE1-SYN-OB-0135,Large fixture 1 Fairhaven LLC 135,1182000,B+,Passenger airlines,United States,1st Lien,Floating,260,,0,2029-10-30,0.54,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00141,LARGE1-SYN-OB-0136,Large fixture 1 Granite Holdings 136,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-06-28,0.395,97.375,4,USD,SOFR
+LARGE1-SYN-LN-00142,LARGE1-SYN-OB-0137,Large fixture 1 Harbor Inc. 137,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2032-03-28,0.47,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00143,LARGE1-SYN-OB-0138,Large fixture 1 Hawthorne Corp. 138,1182000,B,Auto Components,United States,1st Lien,Floating,290,,0,2032-08-30,0.33,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00144,LARGE1-SYN-OB-0139,Large fixture 1 Highland Group 139,630000,BB+,Specialty Retail,Netherlands,1st Lien,Floating,165,,0,2031-02-28,0.36,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00145,LARGE1-SYN-OB-0140,Large fixture 1 Ironwood LLC 140,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,340,,0,2033-07-30,0.365,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00146,LARGE1-SYN-OB-0141,Large fixture 1 Juniper Holdings 141,1182000,B+,Passenger airlines,United States,1st Lien,Floating,390,,0,2030-07-28,0.49,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00147,LARGE1-SYN-OB-0142,Large fixture 1 Keystone Inc. 142,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,365,,0,2030-06-15,0.44,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00148,LARGE1-SYN-OB-0143,Large fixture 1 Lakeview Corp. 143,630000,BBB,Software,Austria,1st Lien,Floating,215,,50,2032-04-15,0.41,101.125,4,USD,SOFR
+LARGE1-SYN-LN-00149,LARGE1-SYN-OB-0144,Large fixture 1 Larkspur Group 144,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,355,,0,2032-06-28,0.335,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00150,LARGE1-SYN-OB-0145,Large fixture 1 Maple LLC 145,1182000,B+,Passenger airlines,United States,1st Lien,Floating,325,,0,2032-01-28,0.38,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00151,LARGE1-SYN-OB-0146,Large fixture 1 Meridian Holdings 146,1189000,B,Software,United States,1st Lien,Floating,245,,0,2030-07-30,0.41,95.25,4,USD,SOFR
+LARGE1-SYN-LN-00152,LARGE1-SYN-OB-0147,Large fixture 1 Northfield Inc. 147,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-04-15,0.355,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00153,LARGE1-SYN-OB-0148,Large fixture 1 Oakmont Corp. 148,1182000,B,Financial services,United States,1st Lien,Floating,265,,0,2033-08-28,0.34,101.125,4,USD,SOFR
+LARGE1-SYN-LN-00154,LARGE1-SYN-OB-0149,Large fixture 1 Orchard Group 149,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,355,,0,2031-07-15,0.37,98,4,USD,SOFR
+LARGE1-SYN-LN-00155,LARGE1-SYN-OB-0150,Large fixture 1 Pinecrest LLC 150,1182000,BB-,Professional Services,United States,1st Lien,Floating,315,,0,2033-11-15,0.365,98,4,USD,SOFR
+LARGE1-SYN-LN-00156,LARGE1-SYN-OB-0151,Large fixture 1 Redwood Holdings 151,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,225,,0,2032-07-28,0.325,96.75,4,USD,SOFR
+LARGE1-SYN-LN-00157,LARGE1-SYN-OB-0152,Large fixture 1 Riverton Inc. 152,1182000,BB,Transportation Infrastructure,United States,1st Lien,Floating,195,,0,2032-02-28,0.62,97.75,4,USD,SOFR
+LARGE1-SYN-LN-00158,LARGE1-SYN-OB-0153,Large fixture 1 Silver Corp. 153,1182000,B,Chemicals,Netherlands,1st Lien,Floating,335,,0,2031-05-30,0.34,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00159,LARGE1-SYN-OB-0154,Large fixture 1 Stonebridge Group 154,1182000,BB-,Household Durables,United States,1st Lien,Floating,285,,0,2032-09-15,0.485,97.25,4,USD,SOFR
+LARGE1-SYN-LN-00160,LARGE1-SYN-OB-0155,Large fixture 1 Summit LLC 155,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-10-30,0.43,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00161,LARGE1-SYN-OB-0156,Large fixture 1 Timber Holdings 156,1182000,BB,Machinery,United States,1st Lien,Floating,205,,0,2030-01-15,0.525,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00162,LARGE1-SYN-OB-0157,Large fixture 1 Westhaven Inc. 157,1182000,BB-,Automobiles,United States,1st Lien,Floating,275,,0,2032-07-28,0.225,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00163,LARGE1-SYN-OB-0158,Large fixture 1 Willow Corp. 158,1182000,BB,Banks,United States,1st Lien,Floating,230,,0,2030-09-30,0.475,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00164,LARGE1-SYN-OB-0159,Large fixture 1 Windward Group 159,1182000,B,Chemicals,United States,1st Lien,Floating,375,,0,2031-11-28,0.345,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00165,LARGE1-SYN-OB-0160,Large fixture 1 Woodland LLC 160,550000,B,Software,United States,1st Lien,Floating,230,,50,2030-07-28,0.36,96.5,4,USD,SOFR
+LARGE1-SYN-LN-00166,LARGE1-SYN-OB-0160,Large fixture 1 Woodland LLC 160,665000,B,Software,United States,1st Lien,Floating,240,,0,2030-09-30,0.36,96.625,4,USD,SOFR
+LARGE1-SYN-LN-00167,LARGE1-SYN-OB-0161,Large fixture 1 Alder Holdings 161,1182000,B,IT Services,United States,1st Lien,Floating,250,,0,2031-07-28,0.23,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00168,LARGE1-SYN-OB-0162,Large fixture 1 Amber Inc. 162,630000,BB-,Ground transportation,Luxembourg,1st Lien,Fixed,,0.046,,2032-11-28,0.5,98.5,2,USD,
+LARGE1-SYN-LN-00169,LARGE1-SYN-OB-0163,Large fixture 1 Arbor Corp. 163,660000,B+,Capital Markets,United States,1st Lien,Floating,345,,0,2032-08-15,0.385,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00170,LARGE1-SYN-OB-0163,Large fixture 1 Arbor Corp. 163,522000,B+,Capital Markets,United States,1st Lien,Floating,355,,75,2032-10-30,0.385,101.625,4,USD,SOFR
+LARGE1-SYN-LN-00171,LARGE1-SYN-OB-0164,Large fixture 1 Atlas Group 164,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,375,,0,2031-03-30,0.505,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00172,LARGE1-SYN-OB-0165,Large fixture 1 Beacon LLC 165,1182000,B-,Financial services,United States,1st Lien,Floating,415,,0,2031-10-28,0.405,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00173,LARGE1-SYN-OB-0166,Large fixture 1 Bluewater Holdings 166,1207000,B,Software,United States,1st Lien,Floating,345,,0,2031-05-15,0.45,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00174,LARGE1-SYN-OB-0167,Large fixture 1 Bracken Inc. 167,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,100,,0,2031-12-15,0.285,97.875,4,USD,SOFR
+LARGE1-SYN-LN-00175,LARGE1-SYN-OB-0168,Large fixture 1 Cedar Corp. 168,1182000,B+,Media,United States,1st Lien,Floating,205,,0,2033-07-15,0.455,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00176,LARGE1-SYN-OB-0169,Large fixture 1 Cobalt Group 169,1182000,B,Chemicals,United States,1st Lien,Floating,250,,0,2032-10-28,0.31,96.125,4,USD,SOFR
+LARGE1-SYN-LN-00177,LARGE1-SYN-OB-0170,Large fixture 1 Copper LLC 170,1182000,B+,Media,United States,1st Lien,Floating,315,,0,2030-06-28,0.39,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00178,LARGE1-SYN-OB-0171,Large fixture 1 Crest Holdings 171,1182000,BB,Household Products,United States,1st Lien,Floating,245,,0,2031-12-15,0.415,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00179,LARGE1-SYN-OB-0172,Large fixture 1 Duneland Inc. 172,1182000,B-,Machinery,United States,1st Lien,Floating,395,,0,2030-07-28,0.335,98.75,4,USD,SOFR
+LARGE1-SYN-LN-00180,LARGE1-SYN-OB-0173,Large fixture 1 Elmstone Corp. 173,630000,BBB+,Auto Components,United Kingdom,1st Lien,Fixed,,0.04225,,2032-06-28,0.435,97.125,2,USD,
+LARGE1-SYN-LN-00181,LARGE1-SYN-OB-0174,Large fixture 1 Evergreen Group 174,1211000,B,Healthcare Providers & Services,United States,1st Lien,Floating,285,,0,2030-01-28,0.475,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00182,LARGE1-SYN-OB-0175,Large fixture 1 Fairhaven LLC 175,1182000,B+,Professional Services,United States,1st Lien,Floating,275,,0,2032-03-28,0.355,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00183,LARGE1-SYN-OB-0176,Large fixture 1 Granite Holdings 176,1182000,B+,Electric Utilities,United States,1st Lien,Floating,260,,0,2031-10-15,0.54,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00184,LARGE1-SYN-OB-0177,Large fixture 1 Harbor Inc. 177,1182000,BB-,Food Products,United States,1st Lien,Floating,245,,0,2031-02-28,0.395,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00185,LARGE1-SYN-OB-0178,Large fixture 1 Hawthorne Corp. 178,630000,BBB-,Consumer Finance,Canada,1st Lien,Fixed,,0.045375,,2033-02-28,0.395,96.875,2,USD,
+LARGE1-SYN-LN-00186,LARGE1-SYN-OB-0179,Large fixture 1 Highland Group 179,1182000,B+,Electric Utilities,United States,1st Lien,Floating,265,,0,2031-08-15,0.525,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00187,LARGE1-SYN-OB-0180,Large fixture 1 Ironwood LLC 180,1182000,B,Building Products,United States,1st Lien,Floating,395,,0,2031-10-15,0.475,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00188,LARGE1-SYN-OB-0181,Large fixture 1 Juniper Holdings 181,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,245,,0,2033-09-28,0.475,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00189,LARGE1-SYN-OB-0182,Large fixture 1 Keystone Inc. 182,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,420,,0,2029-01-30,0.475,97.5,4,USD,SOFR
+LARGE1-SYN-LN-00190,LARGE1-SYN-OB-0183,Large fixture 1 Lakeview Corp. 183,1182000,B,Chemicals,United States,1st Lien,Floating,280,,0,2032-02-28,0.25,94.375,4,USD,SOFR
+LARGE1-SYN-LN-00191,LARGE1-SYN-OB-0184,Large fixture 1 Larkspur Group 184,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,330,,0,2029-11-28,0.38,95.5,4,USD,SOFR
+LARGE1-SYN-LN-00192,LARGE1-SYN-OB-0185,Large fixture 1 Maple LLC 185,630000,BB+,Consumer Finance,United Kingdom,1st Lien,Floating,215,,0,2031-04-15,0.45,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00193,LARGE1-SYN-OB-0186,Large fixture 1 Meridian Holdings 186,1193000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2033-03-28,0.34,97.25,4,USD,SOFR
+LARGE1-SYN-LN-00194,LARGE1-SYN-OB-0187,Large fixture 1 Northfield Inc. 187,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,315,,0,2032-10-30,0.385,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00195,LARGE1-SYN-OB-0188,Large fixture 1 Oakmont Corp. 188,1182000,B,Capital Markets,United States,1st Lien,Floating,365,,0,2034-02-28,0.395,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00196,LARGE1-SYN-OB-0189,Large fixture 1 Orchard Group 189,660000,B+,Media,United States,1st Lien,Floating,435,,50,2034-10-15,0.515,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00197,LARGE1-SYN-OB-0189,Large fixture 1 Orchard Group 189,522000,B+,Media,United States,1st Lien,Floating,445,,50,2034-12-15,0.515,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00198,LARGE1-SYN-OB-0190,Large fixture 1 Pinecrest LLC 190,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,250,,0,2031-12-28,0.505,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00199,LARGE1-SYN-OB-0191,Large fixture 1 Redwood Holdings 191,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,415,,0,2032-02-28,0.49,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00200,LARGE1-SYN-OB-0192,Large fixture 1 Riverton Inc. 192,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2029-05-28,0.425,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00201,LARGE1-SYN-OB-0193,Large fixture 1 Silver Corp. 193,1182000,B-,Software,United States,1st Lien,Floating,390,,0,2032-12-30,0.49,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00202,LARGE1-SYN-OB-0194,Large fixture 1 Stonebridge Group 194,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2032-05-28,0.21,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00203,LARGE1-SYN-OB-0195,Large fixture 1 Summit LLC 195,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,495,,0,2029-08-28,0.53,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00204,LARGE1-SYN-OB-0196,Large fixture 1 Timber Holdings 196,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,365,,0,2032-07-28,0.485,96.625,4,USD,SOFR
+LARGE1-SYN-LN-00205,LARGE1-SYN-OB-0197,Large fixture 1 Westhaven Inc. 197,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,290,,0,2032-10-15,0.225,96.75,4,USD,SOFR
+LARGE1-SYN-LN-00206,LARGE1-SYN-OB-0198,Large fixture 1 Willow Corp. 198,1182000,B-,Machinery,United States,1st Lien,Floating,475,,0,2033-09-30,0.445,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00207,LARGE1-SYN-OB-0199,Large fixture 1 Windward Group 199,1182000,BB,Electric Utilities,United States,1st Lien,Floating,145,,0,2031-05-28,0.525,98.875,4,USD,SOFR
+LARGE1-SYN-LN-00208,LARGE1-SYN-OB-0200,Large fixture 1 Woodland LLC 200,630000,B,Food Products,Germany,Sr Secured,Fixed,,0.033625,,2034-04-30,0.37,99.25,2,USD,
+LARGE1-SYN-LN-00209,LARGE1-SYN-OB-0201,Large fixture 1 Alder Holdings 201,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,335,,0,2034-06-15,0.35,97.625,4,USD,SOFR
+LARGE1-SYN-LN-00210,LARGE1-SYN-OB-0202,Large fixture 1 Amber Inc. 202,630000,BB,Food Products,Canada,1st Lien,Fixed,,0.033625,,2029-07-30,0.355,98.875,2,USD,
+LARGE1-SYN-LN-00211,LARGE1-SYN-OB-0203,Large fixture 1 Arbor Corp. 203,1182000,B,Building Products,United States,1st Lien,Floating,230,,0,2032-04-15,0.335,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00212,LARGE1-SYN-OB-0204,Large fixture 1 Atlas Group 204,1182000,BB,Construction Materials,United States,1st Lien,Floating,310,,0,2034-10-30,0.37,101.25,4,USD,SOFR
+LARGE1-SYN-LN-00213,LARGE1-SYN-OB-0205,Large fixture 1 Beacon LLC 205,630000,B-,"Textiles, Apparel & Luxury Goods",Canada,1st Lien,Floating,280,,50,2030-07-28,0.35,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00214,LARGE1-SYN-OB-0206,Large fixture 1 Bluewater Holdings 206,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,235,,0,2032-03-28,0.325,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00215,LARGE1-SYN-OB-0207,Large fixture 1 Bracken Inc. 207,1182000,BB+,Broadline retail,United States,1st Lien,Floating,205,,0,2032-07-30,0.2,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00216,LARGE1-SYN-OB-0208,Large fixture 1 Cedar Corp. 208,630000,B+,"Hotels, Restaurants & Leisure",Luxembourg,Senior,Floating,225,,0,2031-04-28,0.46,97.875,4,USD,SOFR
+LARGE1-SYN-LN-00217,LARGE1-SYN-OB-0209,Large fixture 1 Cobalt Group 209,1182000,B+,Aerospace & Defense,United States,1st Lien,Floating,275,,0,2032-11-28,0.53,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00218,LARGE1-SYN-OB-0210,Large fixture 1 Copper LLC 210,1182000,BB+,Capital Markets,United States,1st Lien,Floating,275,,0,2033-04-15,0.555,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00219,LARGE1-SYN-OB-0211,Large fixture 1 Crest Holdings 211,1182000,B-,Distributors,United States,1st Lien,Floating,215,,0,2030-11-28,0.345,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00220,LARGE1-SYN-OB-0212,Large fixture 1 Duneland Inc. 212,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2031-10-30,0.485,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00221,LARGE1-SYN-OB-0213,Large fixture 1 Elmstone Corp. 213,630000,BBB+,Passenger airlines,Canada,1st Lien,Floating,335,,50,2030-07-28,0.405,98.25,4,USD,SOFR
+LARGE1-SYN-LN-00222,LARGE1-SYN-OB-0214,Large fixture 1 Evergreen Group 214,1182000,BB-,Food Products,United States,1st Lien,Floating,115,,0,2032-11-15,0.43,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00223,LARGE1-SYN-OB-0215,Large fixture 1 Fairhaven LLC 215,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-09-30,0.325,95.625,4,USD,SOFR
+LARGE1-SYN-LN-00224,LARGE1-SYN-OB-0216,Large fixture 1 Granite Holdings 216,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2033-02-28,0.46,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00225,LARGE1-SYN-OB-0217,Large fixture 1 Harbor Inc. 217,1182000,B,Capital Markets,United States,1st Lien,Floating,245,,0,2033-07-15,0.33,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00226,LARGE1-SYN-OB-0218,Large fixture 1 Hawthorne Corp. 218,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,160,,0,2032-07-28,0.395,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00227,LARGE1-SYN-OB-0219,Large fixture 1 Highland Group 219,1182000,B+,Electric Utilities,United States,1st Lien,Floating,150,,0,2032-10-28,0.41,100,4,USD,SOFR
+LARGE1-SYN-LN-00228,LARGE1-SYN-OB-0220,Large fixture 1 Ironwood LLC 220,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,315,,0,2030-12-15,0.37,95.875,4,USD,SOFR
+LARGE1-SYN-LN-00229,LARGE1-SYN-OB-0221,Large fixture 1 Juniper Holdings 221,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,295,,0,2031-05-30,0.565,97.5,4,USD,SOFR
+LARGE1-SYN-LN-00230,LARGE1-SYN-OB-0222,Large fixture 1 Keystone Inc. 222,1182000,BB,Leisure Products,United Kingdom,1st Lien,Floating,150,,0,2034-02-28,0.215,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00231,LARGE1-SYN-OB-0223,Large fixture 1 Lakeview Corp. 223,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,405,,0,2033-03-28,0.305,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00232,LARGE1-SYN-OB-0224,Large fixture 1 Larkspur Group 224,650000,BB-,Automobiles,United States,1st Lien,Floating,215,,0,2032-11-15,0.635,96.875,4,USD,SOFR
+LARGE1-SYN-LN-00233,LARGE1-SYN-OB-0224,Large fixture 1 Larkspur Group 224,532000,BB-,Automobiles,United States,1st Lien,Floating,225,,75,2033-01-28,0.635,97,4,USD,SOFR
+LARGE1-SYN-LN-00234,LARGE1-SYN-OB-0225,Large fixture 1 Maple LLC 225,1182000,BB-,Communications Equipment,United Kingdom,1st Lien,Floating,275,,0,2032-08-28,0.545,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00235,LARGE1-SYN-OB-0226,Large fixture 1 Meridian Holdings 226,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,380,,0,2030-11-28,0.315,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00236,LARGE1-SYN-OB-0227,Large fixture 1 Northfield Inc. 227,1182000,BB+,Broadline retail,United States,1st Lien,Floating,215,,0,2032-10-30,0.325,99,4,USD,SOFR
+LARGE1-SYN-LN-00237,LARGE1-SYN-OB-0228,Large fixture 1 Oakmont Corp. 228,1182000,BB-,Ground transportation,United States,1st Lien,Floating,230,,0,2033-12-28,0.275,93,4,USD,SOFR
+LARGE1-SYN-LN-00238,LARGE1-SYN-OB-0229,Large fixture 1 Orchard Group 229,1182000,B+,Ground transportation,United States,1st Lien,Floating,275,,0,2033-01-28,0.335,100.5,4,USD,SOFR
+LARGE1-SYN-LN-00239,LARGE1-SYN-OB-0230,Large fixture 1 Pinecrest LLC 230,630000,BBB-,"Oil, Gas & Consumable Fuels",Ireland,1st Lien,Floating,255,,50,2033-09-15,0.375,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00240,LARGE1-SYN-OB-0231,Large fixture 1 Redwood Holdings 231,1182000,B,Food Products,United States,1st Lien,Floating,300,,0,2032-09-15,0.275,98.375,4,USD,SOFR
+LARGE1-SYN-LN-00241,LARGE1-SYN-OB-0232,Large fixture 1 Riverton Inc. 232,1182000,B,Auto Components,United States,1st Lien,Floating,270,,0,2033-11-15,0.415,101.375,4,USD,SOFR
+LARGE1-SYN-LN-00242,LARGE1-SYN-OB-0233,Large fixture 1 Silver Corp. 233,1185000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2032-01-15,0.375,98.5,4,USD,SOFR
+LARGE1-SYN-LN-00243,LARGE1-SYN-OB-0234,Large fixture 1 Stonebridge Group 234,1182000,B-,Machinery,United States,1st Lien,Floating,280,,0,2031-04-28,0.315,98,4,USD,SOFR
+LARGE1-SYN-LN-00244,LARGE1-SYN-OB-0235,Large fixture 1 Summit LLC 235,1182000,B-,Software,United States,1st Lien,Floating,275,,0,2030-05-15,0.41,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00245,LARGE1-SYN-OB-0236,Large fixture 1 Timber Holdings 236,1182000,BB+,Transportation Infrastructure,United States,1st Lien,Floating,180,,0,2031-09-15,0.435,99.375,4,USD,SOFR
+LARGE1-SYN-LN-00246,LARGE1-SYN-OB-0237,Large fixture 1 Westhaven Inc. 237,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,390,,0,2033-04-15,0.36,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00247,LARGE1-SYN-OB-0238,Large fixture 1 Willow Corp. 238,1182000,B,Chemicals,United States,1st Lien,Floating,310,,0,2031-04-30,0.405,100.75,4,USD,SOFR
+LARGE1-SYN-LN-00248,LARGE1-SYN-OB-0239,Large fixture 1 Windward Group 239,1182000,B-,Software,United States,1st Lien,Floating,385,,0,2033-09-28,0.49,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00249,LARGE1-SYN-OB-0240,Large fixture 1 Woodland LLC 240,1182000,B-,Software,United States,1st Lien,Floating,330,,0,2030-02-28,0.375,97.75,4,USD,SOFR
+LARGE1-SYN-LN-00250,LARGE1-SYN-OB-0241,Large fixture 1 Alder Holdings 241,1182000,B-,Software,United States,1st Lien,Floating,345,,0,2030-12-30,0.42,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00251,LARGE1-SYN-OB-0242,Large fixture 1 Amber Inc. 242,1182000,B+,Media,United States,1st Lien,Floating,280,,0,2032-03-15,0.31,99,4,USD,SOFR
+LARGE1-SYN-LN-00252,LARGE1-SYN-OB-0243,Large fixture 1 Arbor Corp. 243,1202000,B,Healthcare Providers & Services,United States,1st Lien,Floating,395,,0,2033-08-28,0.385,100.125,4,USD,SOFR
+LARGE1-SYN-LN-00253,LARGE1-SYN-OB-0244,Large fixture 1 Atlas Group 244,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,215,,0,2031-12-15,0.265,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00254,LARGE1-SYN-OB-0245,Large fixture 1 Beacon LLC 245,630000,B-,Diversified Telecommunication Services,Switzerland,1st Lien,Fixed,,0.033625,,2031-04-28,0.4,100.5,2,USD,
+LARGE1-SYN-LN-00255,LARGE1-SYN-OB-0246,Large fixture 1 Bluewater Holdings 246,1182000,BB,Trading Companies & Distributors,United States,1st Lien,Floating,310,,0,2032-09-28,0.485,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00256,LARGE1-SYN-OB-0247,Large fixture 1 Bracken Inc. 247,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-04-28,0.42,100.25,4,USD,SOFR
+LARGE1-SYN-LN-00257,LARGE1-SYN-OB-0248,Large fixture 1 Cedar Corp. 248,630000,BB-,Beverages,Germany,1st Lien,Floating,235,,0,2033-03-28,0.57,100.625,4,USD,SOFR
+LARGE1-SYN-LN-00258,LARGE1-SYN-OB-0249,Large fixture 1 Cobalt Group 249,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2033-11-30,0.45,96.875,4,USD,SOFR
+LARGE1-SYN-LN-00259,LARGE1-SYN-OB-0250,Large fixture 1 Copper LLC 250,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,275,,0,2034-02-28,0.2,100.875,4,USD,SOFR
+LARGE1-SYN-LN-00260,LARGE1-SYN-OB-0251,Large fixture 1 Crest Holdings 251,630000,BB,Construction Materials,Australia,1st Lien,Floating,215,,0,2032-07-28,0.485,101.375,4,USD,SOFR
+LARGE1-SYN-LN-00261,LARGE1-SYN-OB-0252,Large fixture 1 Duneland Inc. 252,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2030-12-15,0.235,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00262,LARGE1-SYN-OB-0253,Large fixture 1 Elmstone Corp. 253,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,310,,0,2031-10-15,0.41,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00263,LARGE1-SYN-OB-0254,Large fixture 1 Evergreen Group 254,1182000,B,Software,United States,1st Lien,Floating,160,,0,2031-08-28,0.325,96.875,4,USD,SOFR
+LARGE1-SYN-LN-00264,LARGE1-SYN-OB-0255,Large fixture 1 Fairhaven LLC 255,1182000,B+,Insurance,United States,1st Lien,Floating,325,,0,2032-11-30,0.665,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00265,LARGE1-SYN-OB-0256,Large fixture 1 Granite Holdings 256,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,315,,0,2032-12-28,0.29,99.25,4,USD,SOFR
+LARGE1-SYN-LN-00266,LARGE1-SYN-OB-0257,Large fixture 1 Harbor Inc. 257,1182000,B+,Insurance,United States,1st Lien,Floating,225,,0,2031-05-15,0.435,99.875,4,USD,SOFR
+LARGE1-SYN-LN-00267,LARGE1-SYN-OB-0258,Large fixture 1 Hawthorne Corp. 258,1182000,B+,Insurance,United States,1st Lien,Floating,340,,0,2034-06-30,0.455,97.5,4,USD,SOFR
+LARGE1-SYN-LN-00268,LARGE1-SYN-OB-0259,Large fixture 1 Highland Group 259,710000,B-,Containers & Packaging,United States,1st Lien,Floating,210,,50,2035-09-15,0.34,99,4,USD,SOFR
+LARGE1-SYN-LN-00269,LARGE1-SYN-OB-0259,Large fixture 1 Highland Group 259,472000,B-,Containers & Packaging,United States,1st Lien,Floating,220,,0,2035-11-30,0.34,99.125,4,USD,SOFR
+LARGE1-SYN-LN-00270,LARGE1-SYN-OB-0260,Large fixture 1 Ironwood LLC 260,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,355,,0,2032-11-15,0.375,98.5,4,USD,SOFR
+LARGE1-SYN-LN-00271,LARGE1-SYN-OB-0261,Large fixture 1 Juniper Holdings 261,1182000,BB-,Food Products,United States,1st Lien,Floating,300,,0,2032-10-28,0.535,99,4,USD,SOFR
+LARGE1-SYN-LN-00272,LARGE1-SYN-OB-0262,Large fixture 1 Keystone Inc. 262,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,325,,0,2031-11-15,0.54,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00273,LARGE1-SYN-OB-0263,Large fixture 1 Lakeview Corp. 263,630000,BBB+,Passenger airlines,Luxembourg,1st Lien,Fixed,,0.041875,,2031-07-28,0.27,88.125,2,USD,
+LARGE1-SYN-LN-00274,LARGE1-SYN-OB-0264,Large fixture 1 Larkspur Group 264,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-05-28,0.375,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00275,LARGE1-SYN-OB-0265,Large fixture 1 Maple LLC 265,1182000,B-,Communications Equipment,United Kingdom,1st Lien,Floating,440,,0,2029-04-15,0.45,99.75,4,USD,SOFR
+LARGE1-SYN-LN-00276,LARGE1-SYN-OB-0266,Large fixture 1 Meridian Holdings 266,1182000,BB,Construction Materials,United States,1st Lien,Floating,230,,0,2030-09-28,0.335,100,4,USD,SOFR
+LARGE1-SYN-LN-00277,LARGE1-SYN-OB-0267,Large fixture 1 Northfield Inc. 267,790000,BB-,Food Products,United States,1st Lien,Floating,135,,0,2033-03-15,0.375,99.5,4,USD,SOFR
+LARGE1-SYN-LN-00278,LARGE1-SYN-OB-0267,Large fixture 1 Northfield Inc. 267,392000,BB-,Food Products,United States,1st Lien,Floating,145,,50,2033-05-15,0.375,99.625,4,USD,SOFR
+LARGE1-SYN-LN-00279,LARGE1-SYN-OB-0268,Large fixture 1 Oakmont Corp. 268,780000,BB-,Food Products,United States,1st Lien,Floating,295,,0,2033-01-28,0.47,101.5,4,USD,SOFR
+LARGE1-SYN-LN-00280,LARGE1-SYN-OB-0268,Large fixture 1 Oakmont Corp. 268,402000,BB-,Food Products,United States,1st Lien,Floating,305,,75,2033-03-15,0.47,101.625,4,USD,SOFR
+LARGE1-SYN-LN-00281,LARGE1-SYN-OB-0269,Large fixture 1 Orchard Group 269,1182000,BB-,Household Durables,United States,1st Lien,Floating,280,,0,2031-04-30,0.475,100.375,4,USD,SOFR
+LARGE1-SYN-LN-00282,LARGE1-SYN-OB-0270,Large fixture 1 Pinecrest LLC 270,1182000,B-,Pharmaceuticals,Luxembourg,1st Lien,Floating,435,,0,2029-07-15,0.435,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00001,LARGE2-SYN-OB-0001,Large fixture 2 Alder Holdings 001,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,220,,0,2033-10-30,0.395,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00002,LARGE2-SYN-OB-0002,Large fixture 2 Amber Inc. 002,586000,BBB,IT Services,United Kingdom,Sr Unsec,Floating,220,,0,2031-02-15,0.2,96.5,4,USD,SOFR
+LARGE2-SYN-LN-00003,LARGE2-SYN-OB-0003,Large fixture 2 Arbor Corp. 003,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,255,,0,2032-04-15,0.405,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00004,LARGE2-SYN-OB-0004,Large fixture 2 Atlas Group 004,1182000,B-,Financial services,United States,1st Lien,Floating,575,,0,2031-04-30,0.305,101.25,4,USD,SOFR
+LARGE2-SYN-LN-00005,LARGE2-SYN-OB-0005,Large fixture 2 Beacon LLC 005,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-03-30,0.36,96.75,4,USD,SOFR
+LARGE2-SYN-LN-00006,LARGE2-SYN-OB-0006,Large fixture 2 Bluewater Holdings 006,1182000,B,Chemicals,United States,1st Lien,Floating,325,,0,2033-01-15,0.43,99,4,USD,SOFR
+LARGE2-SYN-LN-00007,LARGE2-SYN-OB-0007,Large fixture 2 Bracken Inc. 007,1182000,B,Building Products,United States,1st Lien,Floating,290,,0,2029-01-15,0.45,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00008,LARGE2-SYN-OB-0008,Large fixture 2 Cedar Corp. 008,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,110,,0,2032-10-30,0.49,98.5,4,USD,SOFR
+LARGE2-SYN-LN-00009,LARGE2-SYN-OB-0009,Large fixture 2 Cobalt Group 009,1182000,BB-,Diversified Telecommunication Services,United States,1st Lien,Floating,330,,0,2033-06-15,0.2,99.75,4,USD,SOFR
+LARGE2-SYN-LN-00010,LARGE2-SYN-OB-0010,Large fixture 2 Copper LLC 010,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2031-10-30,0.525,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00011,LARGE2-SYN-OB-0011,Large fixture 2 Crest Holdings 011,570000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,130,,0,2033-10-15,0.395,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00012,LARGE2-SYN-OB-0011,Large fixture 2 Crest Holdings 011,612000,B+,Commercial Services & Supplies,United States,1st Lien,Floating,140,,0,2033-12-15,0.395,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00013,LARGE2-SYN-OB-0012,Large fixture 2 Duneland Inc. 012,650000,B+,Industrial Conglomerates,United States,1st Lien,Floating,280,,50,2031-06-15,0.285,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00014,LARGE2-SYN-OB-0012,Large fixture 2 Duneland Inc. 012,532000,B+,Industrial Conglomerates,United States,1st Lien,Floating,290,,0,2031-08-28,0.285,99.75,4,USD,SOFR
+LARGE2-SYN-LN-00015,LARGE2-SYN-OB-0013,Large fixture 2 Elmstone Corp. 013,1182000,BB,Construction Materials,United States,1st Lien,Floating,195,,0,2031-06-28,0.315,99.25,4,USD,SOFR
+LARGE2-SYN-LN-00016,LARGE2-SYN-OB-0014,Large fixture 2 Evergreen Group 014,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2032-03-15,0.725,98.125,4,USD,SOFR
+LARGE2-SYN-LN-00017,LARGE2-SYN-OB-0015,Large fixture 2 Fairhaven LLC 015,630000,BB-,Beverages,Switzerland,Sr Secured,Fixed,,0.0455,,2034-02-28,0.325,99,2,USD,
+LARGE2-SYN-LN-00018,LARGE2-SYN-OB-0016,Large fixture 2 Granite Holdings 016,1182000,BB,Banks,United States,1st Lien,Floating,285,,0,2030-08-15,0.45,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00019,LARGE2-SYN-OB-0017,Large fixture 2 Harbor Inc. 017,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,280,,0,2032-05-15,0.235,95.375,4,USD,SOFR
+LARGE2-SYN-LN-00020,LARGE2-SYN-OB-0018,Large fixture 2 Hawthorne Corp. 018,1182000,B+,Passenger airlines,United States,1st Lien,Floating,290,,0,2030-11-30,0.495,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00021,LARGE2-SYN-OB-0019,Large fixture 2 Highland Group 019,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,150,,0,2031-04-28,0.275,99.25,4,USD,SOFR
+LARGE2-SYN-LN-00022,LARGE2-SYN-OB-0020,Large fixture 2 Ironwood LLC 020,1182000,BBB-,Capital Markets,United States,1st Lien,Floating,225,,0,2033-02-28,0.37,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00023,LARGE2-SYN-OB-0021,Large fixture 2 Juniper Holdings 021,1182000,BB,Healthcare Technology,United States,1st Lien,Floating,215,,0,2032-11-30,0.435,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00024,LARGE2-SYN-OB-0022,Large fixture 2 Keystone Inc. 022,1182000,B+,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,215,,0,2034-07-15,0.435,98.75,4,USD,SOFR
+LARGE2-SYN-LN-00025,LARGE2-SYN-OB-0023,Large fixture 2 Lakeview Corp. 023,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,290,,0,2030-12-28,0.27,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00026,LARGE2-SYN-OB-0024,Large fixture 2 Larkspur Group 024,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,405,,0,2029-12-28,0.285,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00027,LARGE2-SYN-OB-0025,Large fixture 2 Maple LLC 025,1182000,BB-,Broadline retail,United States,1st Lien,Floating,235,,0,2033-05-28,0.475,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00028,LARGE2-SYN-OB-0026,Large fixture 2 Meridian Holdings 026,1182000,BB-,Household Products,United States,1st Lien,Floating,295,,0,2032-10-28,0.365,97,4,USD,SOFR
+LARGE2-SYN-LN-00029,LARGE2-SYN-OB-0027,Large fixture 2 Northfield Inc. 027,630000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,365,,50,2035-09-30,0.43,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00030,LARGE2-SYN-OB-0028,Large fixture 2 Oakmont Corp. 028,1182000,B-,Financial services,United States,1st Lien,Floating,330,,0,2032-11-15,0.385,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00031,LARGE2-SYN-OB-0029,Large fixture 2 Orchard Group 029,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,375,,0,2032-03-28,0.295,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00032,LARGE2-SYN-OB-0030,Large fixture 2 Pinecrest LLC 030,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,435,,0,2033-01-28,0.325,100.625,4,USD,SOFR
+LARGE2-SYN-LN-00033,LARGE2-SYN-OB-0031,Large fixture 2 Redwood Holdings 031,1182000,B+,Professional Services,United States,1st Lien,Floating,430,,0,2033-11-15,0.335,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00034,LARGE2-SYN-OB-0032,Large fixture 2 Riverton Inc. 032,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,325,,0,2031-05-15,0.355,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00035,LARGE2-SYN-OB-0033,Large fixture 2 Silver Corp. 033,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,430,,0,2031-06-15,0.435,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00036,LARGE2-SYN-OB-0034,Large fixture 2 Stonebridge Group 034,1182000,B,Building Products,United States,1st Lien,Floating,275,,0,2031-11-30,0.36,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00037,LARGE2-SYN-OB-0035,Large fixture 2 Summit LLC 035,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,220,,0,2031-07-28,0.2,97.25,4,USD,SOFR
+LARGE2-SYN-LN-00038,LARGE2-SYN-OB-0036,Large fixture 2 Timber Holdings 036,1182000,B-,Machinery,United States,1st Lien,Floating,460,,0,2033-02-28,0.47,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00039,LARGE2-SYN-OB-0037,Large fixture 2 Westhaven Inc. 037,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,150,,0,2029-07-28,0.34,98.75,4,USD,SOFR
+LARGE2-SYN-LN-00040,LARGE2-SYN-OB-0038,Large fixture 2 Willow Corp. 038,630000,BB,Auto Components,Canada,1st Lien,Floating,295,,50,2032-12-15,0.62,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00041,LARGE2-SYN-OB-0039,Large fixture 2 Windward Group 039,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,220,,0,2033-06-15,0.415,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00042,LARGE2-SYN-OB-0040,Large fixture 2 Woodland LLC 040,1182000,BB,Interactive media and services,United States,1st Lien,Floating,305,,0,2032-11-30,0.545,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00043,LARGE2-SYN-OB-0041,Large fixture 2 Alder Holdings 041,1182000,B,IT Services,United States,1st Lien,Floating,270,,0,2033-10-30,0.28,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00044,LARGE2-SYN-OB-0042,Large fixture 2 Amber Inc. 042,1182000,B+,Semiconductors & Semiconductor Equipment,United States,1st Lien,Floating,330,,0,2031-11-30,0.425,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00045,LARGE2-SYN-OB-0043,Large fixture 2 Arbor Corp. 043,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,365,,0,2033-09-30,0.39,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00046,LARGE2-SYN-OB-0044,Large fixture 2 Atlas Group 044,1182000,B+,Electric Utilities,United States,1st Lien,Floating,300,,0,2033-11-28,0.43,101.125,4,USD,SOFR
+LARGE2-SYN-LN-00047,LARGE2-SYN-OB-0045,Large fixture 2 Beacon LLC 045,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,360,,0,2033-12-15,0.305,98.75,4,USD,SOFR
+LARGE2-SYN-LN-00048,LARGE2-SYN-OB-0046,Large fixture 2 Bluewater Holdings 046,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,365,,0,2030-12-15,0.445,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00049,LARGE2-SYN-OB-0047,Large fixture 2 Bracken Inc. 047,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,430,,0,2029-11-15,0.375,95.5,4,USD,SOFR
+LARGE2-SYN-LN-00050,LARGE2-SYN-OB-0048,Large fixture 2 Cedar Corp. 048,630000,BBB-,Financial services,Netherlands,Sr Secured,Floating,210,,50,2030-05-15,0.33,97.625,4,USD,SOFR
+LARGE2-SYN-LN-00051,LARGE2-SYN-OB-0049,Large fixture 2 Cobalt Group 049,1182000,BB,Banks,United States,1st Lien,Floating,260,,0,2030-02-15,0.515,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00052,LARGE2-SYN-OB-0050,Large fixture 2 Copper LLC 050,630000,BB+,Construction & Engineering,United States,1st Lien,Floating,195,,50,2030-11-28,0.475,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00053,LARGE2-SYN-OB-0051,Large fixture 2 Crest Holdings 051,1182000,BB-,Food Products,United Kingdom,1st Lien,Floating,355,,0,2032-07-28,0.4,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00054,LARGE2-SYN-OB-0052,Large fixture 2 Duneland Inc. 052,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2032-11-28,0.37,95.875,4,USD,SOFR
+LARGE2-SYN-LN-00055,LARGE2-SYN-OB-0053,Large fixture 2 Elmstone Corp. 053,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,195,,0,2030-08-15,0.49,101.25,4,USD,SOFR
+LARGE2-SYN-LN-00056,LARGE2-SYN-OB-0054,Large fixture 2 Evergreen Group 054,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,335,,0,2033-04-30,0.2,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00057,LARGE2-SYN-OB-0055,Large fixture 2 Fairhaven LLC 055,630000,B-,Healthcare Providers & Services,Austria,1st Lien,Floating,425,,50,2032-09-28,0.405,96.25,4,USD,SOFR
+LARGE2-SYN-LN-00058,LARGE2-SYN-OB-0056,Large fixture 2 Granite Holdings 056,630000,BBB+,Leisure Products,United Kingdom,1st Lien,Floating,265,,50,2030-07-15,0.495,95.375,4,USD,SOFR
+LARGE2-SYN-LN-00059,LARGE2-SYN-OB-0057,Large fixture 2 Harbor Inc. 057,1182000,BB+,Leisure Products,United States,1st Lien,Floating,190,,0,2033-01-30,0.46,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00060,LARGE2-SYN-OB-0058,Large fixture 2 Hawthorne Corp. 058,1182000,BB-,Household Products,United States,1st Lien,Floating,265,,0,2033-12-28,0.35,96,4,USD,SOFR
+LARGE2-SYN-LN-00061,LARGE2-SYN-OB-0059,Large fixture 2 Highland Group 059,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,410,,0,2031-12-15,0.45,96.5,4,USD,SOFR
+LARGE2-SYN-LN-00062,LARGE2-SYN-OB-0060,Large fixture 2 Ironwood LLC 060,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,275,,0,2034-05-30,0.43,101.25,4,USD,SOFR
+LARGE2-SYN-LN-00063,LARGE2-SYN-OB-0061,Large fixture 2 Juniper Holdings 061,630000,B+,Electric Utilities,Ireland,1st Lien,Floating,300,,0,2032-09-30,0.415,100,4,USD,SOFR
+LARGE2-SYN-LN-00064,LARGE2-SYN-OB-0062,Large fixture 2 Keystone Inc. 062,1182000,B+,Electric Utilities,United States,1st Lien,Floating,285,,0,2033-04-30,0.375,97.625,4,USD,SOFR
+LARGE2-SYN-LN-00065,LARGE2-SYN-OB-0063,Large fixture 2 Lakeview Corp. 063,1182000,B-,Software,United States,1st Lien,Floating,515,,0,2031-02-28,0.3,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00066,LARGE2-SYN-OB-0064,Large fixture 2 Larkspur Group 064,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,455,,0,2031-01-28,0.33,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00067,LARGE2-SYN-OB-0065,Large fixture 2 Maple LLC 065,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,225,,0,2030-09-30,0.2,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00068,LARGE2-SYN-OB-0066,Large fixture 2 Meridian Holdings 066,1182000,B-,Financial services,United States,1st Lien,Floating,365,,0,2030-10-30,0.395,98,4,USD,SOFR
+LARGE2-SYN-LN-00069,LARGE2-SYN-OB-0067,Large fixture 2 Northfield Inc. 067,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,215,,0,2030-06-28,0.55,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00070,LARGE2-SYN-OB-0068,Large fixture 2 Oakmont Corp. 068,1182000,B,Chemicals,United States,1st Lien,Floating,190,,0,2031-09-28,0.31,100,4,USD,SOFR
+LARGE2-SYN-LN-00071,LARGE2-SYN-OB-0069,Large fixture 2 Orchard Group 069,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,335,,0,2034-01-15,0.39,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00072,LARGE2-SYN-OB-0070,Large fixture 2 Pinecrest LLC 070,630000,B,Electrical Equipment,United States,1st Lien,Floating,115,,0,2031-06-15,0.225,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00073,LARGE2-SYN-OB-0071,Large fixture 2 Redwood Holdings 071,1182000,B-,Specialty Retail,United States,1st Lien,Floating,200,,0,2034-05-15,0.445,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00074,LARGE2-SYN-OB-0072,Large fixture 2 Riverton Inc. 072,630000,A-,Building Products,Germany,1st Lien,Floating,335,,0,2032-11-15,0.305,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00075,LARGE2-SYN-OB-0073,Large fixture 2 Silver Corp. 073,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,405,,0,2032-09-28,0.31,97.125,4,USD,SOFR
+LARGE2-SYN-LN-00076,LARGE2-SYN-OB-0074,Large fixture 2 Stonebridge Group 074,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,240,,0,2032-01-30,0.39,98,4,USD,SOFR
+LARGE2-SYN-LN-00077,LARGE2-SYN-OB-0075,Large fixture 2 Summit LLC 075,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2032-08-15,0.365,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00078,LARGE2-SYN-OB-0076,Large fixture 2 Timber Holdings 076,770000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2032-05-28,0.345,101,4,USD,SOFR
+LARGE2-SYN-LN-00079,LARGE2-SYN-OB-0076,Large fixture 2 Timber Holdings 076,412000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,210,,50,2032-07-30,0.345,101.125,4,USD,SOFR
+LARGE2-SYN-LN-00080,LARGE2-SYN-OB-0077,Large fixture 2 Westhaven Inc. 077,1182000,B,IT Services,United States,1st Lien,Floating,135,,0,2033-10-28,0.325,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00081,LARGE2-SYN-OB-0078,Large fixture 2 Willow Corp. 078,1182000,B,IT Services,United States,1st Lien,Floating,325,,0,2032-09-30,0.485,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00082,LARGE2-SYN-OB-0079,Large fixture 2 Windward Group 079,1182000,B,Construction & Engineering,United States,1st Lien,Floating,380,,0,2032-11-28,0.405,96.875,4,USD,SOFR
+LARGE2-SYN-LN-00083,LARGE2-SYN-OB-0080,Large fixture 2 Woodland LLC 080,1182000,B-,Diversified Telecommunication Services,United States,1st Lien,Floating,315,,0,2031-04-28,0.255,95.75,4,USD,SOFR
+LARGE2-SYN-LN-00084,LARGE2-SYN-OB-0081,Large fixture 2 Alder Holdings 081,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,230,,0,2031-10-28,0.37,98.75,4,USD,SOFR
+LARGE2-SYN-LN-00085,LARGE2-SYN-OB-0082,Large fixture 2 Amber Inc. 082,630000,BBB-,Media,Netherlands,1st Lien,Floating,245,,50,2033-09-28,0.5,97.125,4,USD,SOFR
+LARGE2-SYN-LN-00086,LARGE2-SYN-OB-0083,Large fixture 2 Arbor Corp. 083,1182000,BB+,Specialty Retail,United States,1st Lien,Floating,240,,0,2031-10-15,0.415,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00087,LARGE2-SYN-OB-0084,Large fixture 2 Atlas Group 084,630000,BB+,Leisure Products,United Kingdom,1st Lien,Floating,190,,0,2032-12-28,0.305,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00088,LARGE2-SYN-OB-0085,Large fixture 2 Beacon LLC 085,1182000,B,Building Products,United States,1st Lien,Floating,200,,0,2031-06-30,0.47,98.625,4,USD,SOFR
+LARGE2-SYN-LN-00089,LARGE2-SYN-OB-0086,Large fixture 2 Bluewater Holdings 086,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,115,,0,2032-06-28,0.5,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00090,LARGE2-SYN-OB-0087,Large fixture 2 Bracken Inc. 087,1182000,B+,Media,United States,1st Lien,Floating,270,,0,2030-09-15,0.595,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00091,LARGE2-SYN-OB-0088,Large fixture 2 Cedar Corp. 088,630000,BBB-,Electrical Equipment,United States,Senior,Floating,225,,50,2032-09-30,0.495,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00092,LARGE2-SYN-OB-0089,Large fixture 2 Cobalt Group 089,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,205,,0,2032-05-30,0.31,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00093,LARGE2-SYN-OB-0090,Large fixture 2 Copper LLC 090,1182000,B,Auto Components,United States,1st Lien,Floating,320,,0,2032-08-15,0.2,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00094,LARGE2-SYN-OB-0091,Large fixture 2 Crest Holdings 091,1182000,B,Media,United States,1st Lien,Floating,340,,0,2034-02-28,0.425,100,4,USD,SOFR
+LARGE2-SYN-LN-00095,LARGE2-SYN-OB-0092,Large fixture 2 Duneland Inc. 092,630000,B+,Gas Utilities,Germany,1st Lien,Floating,115,,0,2029-01-15,0.68,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00096,LARGE2-SYN-OB-0093,Large fixture 2 Elmstone Corp. 093,1182000,B-,"Textiles, Apparel & Luxury Goods",United States,1st Lien,Floating,395,,0,2032-02-28,0.44,99.75,4,USD,SOFR
+LARGE2-SYN-LN-00097,LARGE2-SYN-OB-0094,Large fixture 2 Evergreen Group 094,770000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,370,,0,2031-11-28,0.52,98,4,USD,SOFR
+LARGE2-SYN-LN-00098,LARGE2-SYN-OB-0094,Large fixture 2 Evergreen Group 094,412000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,380,,0,2032-01-30,0.52,98.125,4,USD,SOFR
+LARGE2-SYN-LN-00099,LARGE2-SYN-OB-0095,Large fixture 2 Fairhaven LLC 095,1182000,BB+,Pharmaceuticals,Luxembourg,1st Lien,Floating,215,,0,2033-01-28,0.34,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00100,LARGE2-SYN-OB-0096,Large fixture 2 Granite Holdings 096,1182000,B,"Electronic Equipment, Instruments & Components",United Kingdom,1st Lien,Floating,265,,0,2031-11-28,0.41,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00101,LARGE2-SYN-OB-0097,Large fixture 2 Harbor Inc. 097,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,220,,0,2033-02-15,0.305,96.625,4,USD,SOFR
+LARGE2-SYN-LN-00102,LARGE2-SYN-OB-0098,Large fixture 2 Hawthorne Corp. 098,1182000,BB,Diversified Telecommunication Services,United States,1st Lien,Floating,285,,0,2031-08-30,0.595,98.125,4,USD,SOFR
+LARGE2-SYN-LN-00103,LARGE2-SYN-OB-0099,Large fixture 2 Highland Group 099,1182000,B,Financial services,United States,1st Lien,Floating,175,,0,2030-03-30,0.475,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00104,LARGE2-SYN-OB-0100,Large fixture 2 Ironwood LLC 100,1182000,B-,Machinery,United States,1st Lien,Floating,380,,0,2034-02-28,0.365,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00105,LARGE2-SYN-OB-0101,Large fixture 2 Juniper Holdings 101,1182000,B-,Consumer Finance,United States,1st Lien,Floating,210,,0,2031-12-15,0.535,96.875,4,USD,SOFR
+LARGE2-SYN-LN-00106,LARGE2-SYN-OB-0102,Large fixture 2 Keystone Inc. 102,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,175,,0,2030-11-28,0.43,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00107,LARGE2-SYN-OB-0103,Large fixture 2 Lakeview Corp. 103,1182000,BB-,Real Estate Management & Development,United States,1st Lien,Floating,220,,0,2033-12-30,0.48,94.875,4,USD,SOFR
+LARGE2-SYN-LN-00108,LARGE2-SYN-OB-0104,Large fixture 2 Larkspur Group 104,630000,B-,Software,United States,1st Lien,Fixed,,0.046875,,2029-10-28,0.465,99,2,USD,
+LARGE2-SYN-LN-00109,LARGE2-SYN-OB-0105,Large fixture 2 Maple LLC 105,1182000,B,Construction & Engineering,United States,1st Lien,Floating,350,,0,2034-05-28,0.335,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00110,LARGE2-SYN-OB-0106,Large fixture 2 Meridian Holdings 106,1182000,B+,Electric Utilities,United States,1st Lien,Floating,340,,0,2030-03-28,0.375,99,4,USD,SOFR
+LARGE2-SYN-LN-00111,LARGE2-SYN-OB-0107,Large fixture 2 Northfield Inc. 107,630000,A-,Diversified Consumer Services,Netherlands,1st Lien,Floating,325,,0,2032-01-30,0.565,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00112,LARGE2-SYN-OB-0108,Large fixture 2 Oakmont Corp. 108,630000,B,Wireless Telecommunication Services,Luxembourg,1st Lien,Floating,315,,50,2031-10-28,0.37,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00113,LARGE2-SYN-OB-0109,Large fixture 2 Orchard Group 109,1220000,B,Healthcare Providers & Services,United States,1st Lien,Floating,255,,0,2032-08-28,0.455,97.75,4,USD,SOFR
+LARGE2-SYN-LN-00114,LARGE2-SYN-OB-0110,Large fixture 2 Pinecrest LLC 110,1182000,B,Chemicals,Netherlands,1st Lien,Floating,340,,0,2033-10-15,0.425,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00115,LARGE2-SYN-OB-0111,Large fixture 2 Redwood Holdings 111,1182000,B+,Media,United States,1st Lien,Floating,265,,0,2031-06-28,0.2,100.625,4,USD,SOFR
+LARGE2-SYN-LN-00116,LARGE2-SYN-OB-0112,Large fixture 2 Riverton Inc. 112,1182000,B,IT Services,United States,1st Lien,Floating,290,,0,2032-11-15,0.235,99.75,4,USD,SOFR
+LARGE2-SYN-LN-00117,LARGE2-SYN-OB-0113,Large fixture 2 Silver Corp. 113,1182000,B-,Healthcare Technology,United States,1st Lien,Floating,365,,0,2031-09-28,0.24,100,4,USD,SOFR
+LARGE2-SYN-LN-00118,LARGE2-SYN-OB-0114,Large fixture 2 Stonebridge Group 114,1224000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2030-09-30,0.335,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00119,LARGE2-SYN-OB-0115,Large fixture 2 Summit LLC 115,610000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,255,,50,2031-12-15,0.505,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00120,LARGE2-SYN-OB-0115,Large fixture 2 Summit LLC 115,572000,B+,Life Sciences Tools & Services,United States,1st Lien,Floating,265,,50,2032-02-28,0.505,101.625,4,USD,SOFR
+LARGE2-SYN-LN-00121,LARGE2-SYN-OB-0116,Large fixture 2 Timber Holdings 116,1182000,B,Chemicals,United States,1st Lien,Floating,290,,0,2033-12-28,0.275,98.5,4,USD,SOFR
+LARGE2-SYN-LN-00122,LARGE2-SYN-OB-0117,Large fixture 2 Westhaven Inc. 117,630000,B+,"Hotels, Restaurants & Leisure",United Kingdom,Sr Unsec,Floating,235,,0,2032-02-15,0.2,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00123,LARGE2-SYN-OB-0118,Large fixture 2 Willow Corp. 118,1182000,B-,Consumer Finance,United States,1st Lien,Floating,380,,0,2032-11-30,0.495,100,4,USD,SOFR
+LARGE2-SYN-LN-00124,LARGE2-SYN-OB-0119,Large fixture 2 Windward Group 119,1182000,B-,Financial services,United States,1st Lien,Floating,250,,0,2032-06-30,0.35,98.625,4,USD,SOFR
+LARGE2-SYN-LN-00125,LARGE2-SYN-OB-0120,Large fixture 2 Woodland LLC 120,1182000,BB-,Gas Utilities,United States,1st Lien,Floating,235,,0,2031-03-15,0.45,98.5,4,USD,SOFR
+LARGE2-SYN-LN-00126,LARGE2-SYN-OB-0121,Large fixture 2 Alder Holdings 121,1182000,B-,Software,United States,1st Lien,Floating,365,,0,2033-01-15,0.36,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00127,LARGE2-SYN-OB-0122,Large fixture 2 Amber Inc. 122,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,150,,0,2032-04-15,0.325,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00128,LARGE2-SYN-OB-0123,Large fixture 2 Arbor Corp. 123,1182000,B+,Media,United States,1st Lien,Floating,290,,0,2033-08-30,0.535,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00129,LARGE2-SYN-OB-0124,Large fixture 2 Atlas Group 124,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,260,,0,2032-11-28,0.285,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00130,LARGE2-SYN-OB-0125,Large fixture 2 Beacon LLC 125,1182000,B+,Insurance,United States,1st Lien,Floating,305,,0,2031-11-15,0.34,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00131,LARGE2-SYN-OB-0126,Large fixture 2 Bluewater Holdings 126,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,255,,0,2032-03-28,0.305,101.125,4,USD,SOFR
+LARGE2-SYN-LN-00132,LARGE2-SYN-OB-0127,Large fixture 2 Bracken Inc. 127,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,330,,0,2033-05-15,0.38,97.875,4,USD,SOFR
+LARGE2-SYN-LN-00133,LARGE2-SYN-OB-0128,Large fixture 2 Cedar Corp. 128,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-06-30,0.37,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00134,LARGE2-SYN-OB-0129,Large fixture 2 Cobalt Group 129,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,300,,0,2031-09-15,0.545,101.25,4,USD,SOFR
+LARGE2-SYN-LN-00135,LARGE2-SYN-OB-0130,Large fixture 2 Copper LLC 130,1182000,B,Chemicals,United States,1st Lien,Floating,265,,0,2031-01-15,0.35,96.625,4,USD,SOFR
+LARGE2-SYN-LN-00136,LARGE2-SYN-OB-0131,Large fixture 2 Crest Holdings 131,1182000,B,Chemicals,United States,1st Lien,Floating,295,,0,2032-07-30,0.22,96.125,4,USD,SOFR
+LARGE2-SYN-LN-00137,LARGE2-SYN-OB-0132,Large fixture 2 Duneland Inc. 132,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,290,,0,2031-07-30,0.505,98.625,4,USD,SOFR
+LARGE2-SYN-LN-00138,LARGE2-SYN-OB-0133,Large fixture 2 Elmstone Corp. 133,1182000,B,IT Services,United States,1st Lien,Floating,390,,0,2033-01-28,0.485,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00139,LARGE2-SYN-OB-0134,Large fixture 2 Evergreen Group 134,1198000,B,Software,United States,1st Lien,Floating,400,,0,2032-10-28,0.425,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00140,LARGE2-SYN-OB-0135,Large fixture 2 Fairhaven LLC 135,1182000,B+,Passenger airlines,United States,1st Lien,Floating,260,,0,2029-10-30,0.54,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00141,LARGE2-SYN-OB-0136,Large fixture 2 Granite Holdings 136,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-06-28,0.395,97.375,4,USD,SOFR
+LARGE2-SYN-LN-00142,LARGE2-SYN-OB-0137,Large fixture 2 Harbor Inc. 137,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2032-03-28,0.47,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00143,LARGE2-SYN-OB-0138,Large fixture 2 Hawthorne Corp. 138,1182000,B,Auto Components,United States,1st Lien,Floating,290,,0,2032-08-30,0.33,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00144,LARGE2-SYN-OB-0139,Large fixture 2 Highland Group 139,630000,BB+,Specialty Retail,Netherlands,1st Lien,Floating,165,,0,2031-02-28,0.36,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00145,LARGE2-SYN-OB-0140,Large fixture 2 Ironwood LLC 140,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,340,,0,2033-07-30,0.365,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00146,LARGE2-SYN-OB-0141,Large fixture 2 Juniper Holdings 141,1182000,B+,Passenger airlines,United States,1st Lien,Floating,390,,0,2030-07-28,0.49,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00147,LARGE2-SYN-OB-0142,Large fixture 2 Keystone Inc. 142,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,365,,0,2030-06-15,0.44,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00148,LARGE2-SYN-OB-0143,Large fixture 2 Lakeview Corp. 143,630000,BBB,Software,Austria,1st Lien,Floating,215,,50,2032-04-15,0.41,101.125,4,USD,SOFR
+LARGE2-SYN-LN-00149,LARGE2-SYN-OB-0144,Large fixture 2 Larkspur Group 144,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,355,,0,2032-06-28,0.335,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00150,LARGE2-SYN-OB-0145,Large fixture 2 Maple LLC 145,1182000,B+,Passenger airlines,United States,1st Lien,Floating,325,,0,2032-01-28,0.38,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00151,LARGE2-SYN-OB-0146,Large fixture 2 Meridian Holdings 146,1189000,B,Software,United States,1st Lien,Floating,245,,0,2030-07-30,0.41,95.25,4,USD,SOFR
+LARGE2-SYN-LN-00152,LARGE2-SYN-OB-0147,Large fixture 2 Northfield Inc. 147,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2031-04-15,0.355,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00153,LARGE2-SYN-OB-0148,Large fixture 2 Oakmont Corp. 148,1182000,B,Financial services,United States,1st Lien,Floating,265,,0,2033-08-28,0.34,101.125,4,USD,SOFR
+LARGE2-SYN-LN-00154,LARGE2-SYN-OB-0149,Large fixture 2 Orchard Group 149,1182000,B-,Financial services,United Kingdom,1st Lien,Floating,355,,0,2031-07-15,0.37,98,4,USD,SOFR
+LARGE2-SYN-LN-00155,LARGE2-SYN-OB-0150,Large fixture 2 Pinecrest LLC 150,1182000,BB-,Professional Services,United States,1st Lien,Floating,315,,0,2033-11-15,0.365,98,4,USD,SOFR
+LARGE2-SYN-LN-00156,LARGE2-SYN-OB-0151,Large fixture 2 Redwood Holdings 151,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,225,,0,2032-07-28,0.325,96.75,4,USD,SOFR
+LARGE2-SYN-LN-00157,LARGE2-SYN-OB-0152,Large fixture 2 Riverton Inc. 152,1182000,BB,Transportation Infrastructure,United States,1st Lien,Floating,195,,0,2032-02-28,0.62,97.75,4,USD,SOFR
+LARGE2-SYN-LN-00158,LARGE2-SYN-OB-0153,Large fixture 2 Silver Corp. 153,1182000,B,Chemicals,Netherlands,1st Lien,Floating,335,,0,2031-05-30,0.34,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00159,LARGE2-SYN-OB-0154,Large fixture 2 Stonebridge Group 154,1182000,BB-,Household Durables,United States,1st Lien,Floating,285,,0,2032-09-15,0.485,97.25,4,USD,SOFR
+LARGE2-SYN-LN-00160,LARGE2-SYN-OB-0155,Large fixture 2 Summit LLC 155,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,240,,0,2032-10-30,0.43,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00161,LARGE2-SYN-OB-0156,Large fixture 2 Timber Holdings 156,1182000,BB,Machinery,United States,1st Lien,Floating,205,,0,2030-01-15,0.525,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00162,LARGE2-SYN-OB-0157,Large fixture 2 Westhaven Inc. 157,1182000,BB-,Automobiles,United States,1st Lien,Floating,275,,0,2032-07-28,0.225,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00163,LARGE2-SYN-OB-0158,Large fixture 2 Willow Corp. 158,1182000,BB,Banks,United States,1st Lien,Floating,230,,0,2030-09-30,0.475,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00164,LARGE2-SYN-OB-0159,Large fixture 2 Windward Group 159,1182000,B,Chemicals,United States,1st Lien,Floating,375,,0,2031-11-28,0.345,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00165,LARGE2-SYN-OB-0160,Large fixture 2 Woodland LLC 160,550000,B,Software,United States,1st Lien,Floating,230,,50,2030-07-28,0.36,96.5,4,USD,SOFR
+LARGE2-SYN-LN-00166,LARGE2-SYN-OB-0160,Large fixture 2 Woodland LLC 160,665000,B,Software,United States,1st Lien,Floating,240,,0,2030-09-30,0.36,96.625,4,USD,SOFR
+LARGE2-SYN-LN-00167,LARGE2-SYN-OB-0161,Large fixture 2 Alder Holdings 161,1182000,B,IT Services,United States,1st Lien,Floating,250,,0,2031-07-28,0.23,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00168,LARGE2-SYN-OB-0162,Large fixture 2 Amber Inc. 162,630000,BB-,Ground transportation,Luxembourg,1st Lien,Fixed,,0.046,,2032-11-28,0.5,98.5,2,USD,
+LARGE2-SYN-LN-00169,LARGE2-SYN-OB-0163,Large fixture 2 Arbor Corp. 163,660000,B+,Capital Markets,United States,1st Lien,Floating,345,,0,2032-08-15,0.385,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00170,LARGE2-SYN-OB-0163,Large fixture 2 Arbor Corp. 163,522000,B+,Capital Markets,United States,1st Lien,Floating,355,,75,2032-10-30,0.385,101.625,4,USD,SOFR
+LARGE2-SYN-LN-00171,LARGE2-SYN-OB-0164,Large fixture 2 Atlas Group 164,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,375,,0,2031-03-30,0.505,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00172,LARGE2-SYN-OB-0165,Large fixture 2 Beacon LLC 165,1182000,B-,Financial services,United States,1st Lien,Floating,415,,0,2031-10-28,0.405,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00173,LARGE2-SYN-OB-0166,Large fixture 2 Bluewater Holdings 166,1207000,B,Software,United States,1st Lien,Floating,345,,0,2031-05-15,0.45,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00174,LARGE2-SYN-OB-0167,Large fixture 2 Bracken Inc. 167,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,100,,0,2031-12-15,0.285,97.875,4,USD,SOFR
+LARGE2-SYN-LN-00175,LARGE2-SYN-OB-0168,Large fixture 2 Cedar Corp. 168,1182000,B+,Media,United States,1st Lien,Floating,205,,0,2033-07-15,0.455,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00176,LARGE2-SYN-OB-0169,Large fixture 2 Cobalt Group 169,1182000,B,Chemicals,United States,1st Lien,Floating,250,,0,2032-10-28,0.31,96.125,4,USD,SOFR
+LARGE2-SYN-LN-00177,LARGE2-SYN-OB-0170,Large fixture 2 Copper LLC 170,1182000,B+,Media,United States,1st Lien,Floating,315,,0,2030-06-28,0.39,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00178,LARGE2-SYN-OB-0171,Large fixture 2 Crest Holdings 171,1182000,BB,Household Products,United States,1st Lien,Floating,245,,0,2031-12-15,0.415,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00179,LARGE2-SYN-OB-0172,Large fixture 2 Duneland Inc. 172,1182000,B-,Machinery,United States,1st Lien,Floating,395,,0,2030-07-28,0.335,98.75,4,USD,SOFR
+LARGE2-SYN-LN-00180,LARGE2-SYN-OB-0173,Large fixture 2 Elmstone Corp. 173,630000,BBB+,Auto Components,United Kingdom,1st Lien,Fixed,,0.04225,,2032-06-28,0.435,97.125,2,USD,
+LARGE2-SYN-LN-00181,LARGE2-SYN-OB-0174,Large fixture 2 Evergreen Group 174,1211000,B,Healthcare Providers & Services,United States,1st Lien,Floating,285,,0,2030-01-28,0.475,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00182,LARGE2-SYN-OB-0175,Large fixture 2 Fairhaven LLC 175,1182000,B+,Professional Services,United States,1st Lien,Floating,275,,0,2032-03-28,0.355,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00183,LARGE2-SYN-OB-0176,Large fixture 2 Granite Holdings 176,1182000,B+,Electric Utilities,United States,1st Lien,Floating,260,,0,2031-10-15,0.54,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00184,LARGE2-SYN-OB-0177,Large fixture 2 Harbor Inc. 177,1182000,BB-,Food Products,United States,1st Lien,Floating,245,,0,2031-02-28,0.395,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00185,LARGE2-SYN-OB-0178,Large fixture 2 Hawthorne Corp. 178,630000,BBB-,Consumer Finance,Canada,1st Lien,Fixed,,0.045375,,2033-02-28,0.395,96.875,2,USD,
+LARGE2-SYN-LN-00186,LARGE2-SYN-OB-0179,Large fixture 2 Highland Group 179,1182000,B+,Electric Utilities,United States,1st Lien,Floating,265,,0,2031-08-15,0.525,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00187,LARGE2-SYN-OB-0180,Large fixture 2 Ironwood LLC 180,1182000,B,Building Products,United States,1st Lien,Floating,395,,0,2031-10-15,0.475,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00188,LARGE2-SYN-OB-0181,Large fixture 2 Juniper Holdings 181,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,245,,0,2033-09-28,0.475,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00189,LARGE2-SYN-OB-0182,Large fixture 2 Keystone Inc. 182,1182000,B-,Energy Equipment & Services,United States,1st Lien,Floating,420,,0,2029-01-30,0.475,97.5,4,USD,SOFR
+LARGE2-SYN-LN-00190,LARGE2-SYN-OB-0183,Large fixture 2 Lakeview Corp. 183,1182000,B,Chemicals,United States,1st Lien,Floating,280,,0,2032-02-28,0.25,94.375,4,USD,SOFR
+LARGE2-SYN-LN-00191,LARGE2-SYN-OB-0184,Large fixture 2 Larkspur Group 184,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,330,,0,2029-11-28,0.38,95.5,4,USD,SOFR
+LARGE2-SYN-LN-00192,LARGE2-SYN-OB-0185,Large fixture 2 Maple LLC 185,630000,BB+,Consumer Finance,United Kingdom,1st Lien,Floating,215,,0,2031-04-15,0.45,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00193,LARGE2-SYN-OB-0186,Large fixture 2 Meridian Holdings 186,1193000,B,Healthcare Providers & Services,United States,1st Lien,Floating,300,,0,2033-03-28,0.34,97.25,4,USD,SOFR
+LARGE2-SYN-LN-00194,LARGE2-SYN-OB-0187,Large fixture 2 Northfield Inc. 187,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,315,,0,2032-10-30,0.385,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00195,LARGE2-SYN-OB-0188,Large fixture 2 Oakmont Corp. 188,1182000,B,Capital Markets,United States,1st Lien,Floating,365,,0,2034-02-28,0.395,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00196,LARGE2-SYN-OB-0189,Large fixture 2 Orchard Group 189,660000,B+,Media,United States,1st Lien,Floating,435,,50,2034-10-15,0.515,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00197,LARGE2-SYN-OB-0189,Large fixture 2 Orchard Group 189,522000,B+,Media,United States,1st Lien,Floating,445,,50,2034-12-15,0.515,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00198,LARGE2-SYN-OB-0190,Large fixture 2 Pinecrest LLC 190,1182000,BB-,Industrial Conglomerates,United States,1st Lien,Floating,250,,0,2031-12-28,0.505,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00199,LARGE2-SYN-OB-0191,Large fixture 2 Redwood Holdings 191,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,415,,0,2032-02-28,0.49,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00200,LARGE2-SYN-OB-0192,Large fixture 2 Riverton Inc. 192,1182000,B+,Insurance,United States,1st Lien,Floating,250,,0,2029-05-28,0.425,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00201,LARGE2-SYN-OB-0193,Large fixture 2 Silver Corp. 193,1182000,B-,Software,United States,1st Lien,Floating,390,,0,2032-12-30,0.49,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00202,LARGE2-SYN-OB-0194,Large fixture 2 Stonebridge Group 194,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2032-05-28,0.21,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00203,LARGE2-SYN-OB-0195,Large fixture 2 Summit LLC 195,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,495,,0,2029-08-28,0.53,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00204,LARGE2-SYN-OB-0196,Large fixture 2 Timber Holdings 196,1182000,B-,"Technology Hardware, Storage & Peripherals",United States,1st Lien,Floating,365,,0,2032-07-28,0.485,96.625,4,USD,SOFR
+LARGE2-SYN-LN-00205,LARGE2-SYN-OB-0197,Large fixture 2 Westhaven Inc. 197,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,290,,0,2032-10-15,0.225,96.75,4,USD,SOFR
+LARGE2-SYN-LN-00206,LARGE2-SYN-OB-0198,Large fixture 2 Willow Corp. 198,1182000,B-,Machinery,United States,1st Lien,Floating,475,,0,2033-09-30,0.445,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00207,LARGE2-SYN-OB-0199,Large fixture 2 Windward Group 199,1182000,BB,Electric Utilities,United States,1st Lien,Floating,145,,0,2031-05-28,0.525,98.875,4,USD,SOFR
+LARGE2-SYN-LN-00208,LARGE2-SYN-OB-0200,Large fixture 2 Woodland LLC 200,630000,B,Food Products,Germany,Sr Secured,Fixed,,0.033625,,2034-04-30,0.37,99.25,2,USD,
+LARGE2-SYN-LN-00209,LARGE2-SYN-OB-0201,Large fixture 2 Alder Holdings 201,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,335,,0,2034-06-15,0.35,97.625,4,USD,SOFR
+LARGE2-SYN-LN-00210,LARGE2-SYN-OB-0202,Large fixture 2 Amber Inc. 202,630000,BB,Food Products,Canada,1st Lien,Fixed,,0.033625,,2029-07-30,0.355,98.875,2,USD,
+LARGE2-SYN-LN-00211,LARGE2-SYN-OB-0203,Large fixture 2 Arbor Corp. 203,1182000,B,Building Products,United States,1st Lien,Floating,230,,0,2032-04-15,0.335,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00212,LARGE2-SYN-OB-0204,Large fixture 2 Atlas Group 204,1182000,BB,Construction Materials,United States,1st Lien,Floating,310,,0,2034-10-30,0.37,101.25,4,USD,SOFR
+LARGE2-SYN-LN-00213,LARGE2-SYN-OB-0205,Large fixture 2 Beacon LLC 205,630000,B-,"Textiles, Apparel & Luxury Goods",Canada,1st Lien,Floating,280,,50,2030-07-28,0.35,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00214,LARGE2-SYN-OB-0206,Large fixture 2 Bluewater Holdings 206,1182000,B,Aerospace & Defense,Luxembourg,1st Lien,Floating,235,,0,2032-03-28,0.325,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00215,LARGE2-SYN-OB-0207,Large fixture 2 Bracken Inc. 207,1182000,BB+,Broadline retail,United States,1st Lien,Floating,205,,0,2032-07-30,0.2,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00216,LARGE2-SYN-OB-0208,Large fixture 2 Cedar Corp. 208,630000,B+,"Hotels, Restaurants & Leisure",Luxembourg,Senior,Floating,225,,0,2031-04-28,0.46,97.875,4,USD,SOFR
+LARGE2-SYN-LN-00217,LARGE2-SYN-OB-0209,Large fixture 2 Cobalt Group 209,1182000,B+,Aerospace & Defense,United States,1st Lien,Floating,275,,0,2032-11-28,0.53,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00218,LARGE2-SYN-OB-0210,Large fixture 2 Copper LLC 210,1182000,BB+,Capital Markets,United States,1st Lien,Floating,275,,0,2033-04-15,0.555,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00219,LARGE2-SYN-OB-0211,Large fixture 2 Crest Holdings 211,1182000,B-,Distributors,United States,1st Lien,Floating,215,,0,2030-11-28,0.345,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00220,LARGE2-SYN-OB-0212,Large fixture 2 Duneland Inc. 212,1182000,B-,Software,United States,1st Lien,Floating,380,,0,2031-10-30,0.485,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00221,LARGE2-SYN-OB-0213,Large fixture 2 Elmstone Corp. 213,630000,BBB+,Passenger airlines,Canada,1st Lien,Floating,335,,50,2030-07-28,0.405,98.25,4,USD,SOFR
+LARGE2-SYN-LN-00222,LARGE2-SYN-OB-0214,Large fixture 2 Evergreen Group 214,1182000,BB-,Food Products,United States,1st Lien,Floating,115,,0,2032-11-15,0.43,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00223,LARGE2-SYN-OB-0215,Large fixture 2 Fairhaven LLC 215,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-09-30,0.325,95.625,4,USD,SOFR
+LARGE2-SYN-LN-00224,LARGE2-SYN-OB-0216,Large fixture 2 Granite Holdings 216,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,310,,0,2033-02-28,0.46,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00225,LARGE2-SYN-OB-0217,Large fixture 2 Harbor Inc. 217,1182000,B,Capital Markets,United States,1st Lien,Floating,245,,0,2033-07-15,0.33,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00226,LARGE2-SYN-OB-0218,Large fixture 2 Hawthorne Corp. 218,1182000,B,Healthcare Equipment & Supplies,United States,1st Lien,Floating,160,,0,2032-07-28,0.395,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00227,LARGE2-SYN-OB-0219,Large fixture 2 Highland Group 219,1182000,B+,Electric Utilities,United States,1st Lien,Floating,150,,0,2032-10-28,0.41,100,4,USD,SOFR
+LARGE2-SYN-LN-00228,LARGE2-SYN-OB-0220,Large fixture 2 Ironwood LLC 220,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,315,,0,2030-12-15,0.37,95.875,4,USD,SOFR
+LARGE2-SYN-LN-00229,LARGE2-SYN-OB-0221,Large fixture 2 Juniper Holdings 221,1182000,B-,Transportation Infrastructure,United States,1st Lien,Floating,295,,0,2031-05-30,0.565,97.5,4,USD,SOFR
+LARGE2-SYN-LN-00230,LARGE2-SYN-OB-0222,Large fixture 2 Keystone Inc. 222,1182000,BB,Leisure Products,United Kingdom,1st Lien,Floating,150,,0,2034-02-28,0.215,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00231,LARGE2-SYN-OB-0223,Large fixture 2 Lakeview Corp. 223,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,405,,0,2033-03-28,0.305,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00232,LARGE2-SYN-OB-0224,Large fixture 2 Larkspur Group 224,650000,BB-,Automobiles,United States,1st Lien,Floating,215,,0,2032-11-15,0.635,96.875,4,USD,SOFR
+LARGE2-SYN-LN-00233,LARGE2-SYN-OB-0224,Large fixture 2 Larkspur Group 224,532000,BB-,Automobiles,United States,1st Lien,Floating,225,,75,2033-01-28,0.635,97,4,USD,SOFR
+LARGE2-SYN-LN-00234,LARGE2-SYN-OB-0225,Large fixture 2 Maple LLC 225,1182000,BB-,Communications Equipment,United Kingdom,1st Lien,Floating,275,,0,2032-08-28,0.545,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00235,LARGE2-SYN-OB-0226,Large fixture 2 Meridian Holdings 226,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,380,,0,2030-11-28,0.315,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00236,LARGE2-SYN-OB-0227,Large fixture 2 Northfield Inc. 227,1182000,BB+,Broadline retail,United States,1st Lien,Floating,215,,0,2032-10-30,0.325,99,4,USD,SOFR
+LARGE2-SYN-LN-00237,LARGE2-SYN-OB-0228,Large fixture 2 Oakmont Corp. 228,1182000,BB-,Ground transportation,United States,1st Lien,Floating,230,,0,2033-12-28,0.275,93,4,USD,SOFR
+LARGE2-SYN-LN-00238,LARGE2-SYN-OB-0229,Large fixture 2 Orchard Group 229,1182000,B+,Ground transportation,United States,1st Lien,Floating,275,,0,2033-01-28,0.335,100.5,4,USD,SOFR
+LARGE2-SYN-LN-00239,LARGE2-SYN-OB-0230,Large fixture 2 Pinecrest LLC 230,630000,BBB-,"Oil, Gas & Consumable Fuels",Ireland,1st Lien,Floating,255,,50,2033-09-15,0.375,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00240,LARGE2-SYN-OB-0231,Large fixture 2 Redwood Holdings 231,1182000,B,Food Products,United States,1st Lien,Floating,300,,0,2032-09-15,0.275,98.375,4,USD,SOFR
+LARGE2-SYN-LN-00241,LARGE2-SYN-OB-0232,Large fixture 2 Riverton Inc. 232,1182000,B,Auto Components,United States,1st Lien,Floating,270,,0,2033-11-15,0.415,101.375,4,USD,SOFR
+LARGE2-SYN-LN-00242,LARGE2-SYN-OB-0233,Large fixture 2 Silver Corp. 233,1185000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2032-01-15,0.375,98.5,4,USD,SOFR
+LARGE2-SYN-LN-00243,LARGE2-SYN-OB-0234,Large fixture 2 Stonebridge Group 234,1182000,B-,Machinery,United States,1st Lien,Floating,280,,0,2031-04-28,0.315,98,4,USD,SOFR
+LARGE2-SYN-LN-00244,LARGE2-SYN-OB-0235,Large fixture 2 Summit LLC 235,1182000,B-,Software,United States,1st Lien,Floating,275,,0,2030-05-15,0.41,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00245,LARGE2-SYN-OB-0236,Large fixture 2 Timber Holdings 236,1182000,BB+,Transportation Infrastructure,United States,1st Lien,Floating,180,,0,2031-09-15,0.435,99.375,4,USD,SOFR
+LARGE2-SYN-LN-00246,LARGE2-SYN-OB-0237,Large fixture 2 Westhaven Inc. 237,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,390,,0,2033-04-15,0.36,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00247,LARGE2-SYN-OB-0238,Large fixture 2 Willow Corp. 238,1182000,B,Chemicals,United States,1st Lien,Floating,310,,0,2031-04-30,0.405,100.75,4,USD,SOFR
+LARGE2-SYN-LN-00248,LARGE2-SYN-OB-0239,Large fixture 2 Windward Group 239,1182000,B-,Software,United States,1st Lien,Floating,385,,0,2033-09-28,0.49,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00249,LARGE2-SYN-OB-0240,Large fixture 2 Woodland LLC 240,1182000,B-,Software,United States,1st Lien,Floating,330,,0,2030-02-28,0.375,97.75,4,USD,SOFR
+LARGE2-SYN-LN-00250,LARGE2-SYN-OB-0241,Large fixture 2 Alder Holdings 241,1182000,B-,Software,United States,1st Lien,Floating,345,,0,2030-12-30,0.42,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00251,LARGE2-SYN-OB-0242,Large fixture 2 Amber Inc. 242,1182000,B+,Media,United States,1st Lien,Floating,280,,0,2032-03-15,0.31,99,4,USD,SOFR
+LARGE2-SYN-LN-00252,LARGE2-SYN-OB-0243,Large fixture 2 Arbor Corp. 243,1202000,B,Healthcare Providers & Services,United States,1st Lien,Floating,395,,0,2033-08-28,0.385,100.125,4,USD,SOFR
+LARGE2-SYN-LN-00253,LARGE2-SYN-OB-0244,Large fixture 2 Atlas Group 244,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,215,,0,2031-12-15,0.265,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00254,LARGE2-SYN-OB-0245,Large fixture 2 Beacon LLC 245,630000,B-,Diversified Telecommunication Services,Switzerland,1st Lien,Fixed,,0.033625,,2031-04-28,0.4,100.5,2,USD,
+LARGE2-SYN-LN-00255,LARGE2-SYN-OB-0246,Large fixture 2 Bluewater Holdings 246,1182000,BB,Trading Companies & Distributors,United States,1st Lien,Floating,310,,0,2032-09-28,0.485,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00256,LARGE2-SYN-OB-0247,Large fixture 2 Bracken Inc. 247,1182000,B,Aerospace & Defense,United States,1st Lien,Floating,395,,0,2030-04-28,0.42,100.25,4,USD,SOFR
+LARGE2-SYN-LN-00257,LARGE2-SYN-OB-0248,Large fixture 2 Cedar Corp. 248,630000,BB-,Beverages,Germany,1st Lien,Floating,235,,0,2033-03-28,0.57,100.625,4,USD,SOFR
+LARGE2-SYN-LN-00258,LARGE2-SYN-OB-0249,Large fixture 2 Cobalt Group 249,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,290,,0,2033-11-30,0.45,96.875,4,USD,SOFR
+LARGE2-SYN-LN-00259,LARGE2-SYN-OB-0250,Large fixture 2 Copper LLC 250,1182000,B+,Independent Power and Renewable Electricity Producers,United States,1st Lien,Floating,275,,0,2034-02-28,0.2,100.875,4,USD,SOFR
+LARGE2-SYN-LN-00260,LARGE2-SYN-OB-0251,Large fixture 2 Crest Holdings 251,630000,BB,Construction Materials,Australia,1st Lien,Floating,215,,0,2032-07-28,0.485,101.375,4,USD,SOFR
+LARGE2-SYN-LN-00261,LARGE2-SYN-OB-0252,Large fixture 2 Duneland Inc. 252,1182000,BB-,"Oil, Gas & Consumable Fuels",United States,1st Lien,Floating,200,,0,2030-12-15,0.235,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00262,LARGE2-SYN-OB-0253,Large fixture 2 Elmstone Corp. 253,1182000,BB,Commercial Services & Supplies,United States,1st Lien,Floating,310,,0,2031-10-15,0.41,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00263,LARGE2-SYN-OB-0254,Large fixture 2 Evergreen Group 254,1182000,B,Software,United States,1st Lien,Floating,160,,0,2031-08-28,0.325,96.875,4,USD,SOFR
+LARGE2-SYN-LN-00264,LARGE2-SYN-OB-0255,Large fixture 2 Fairhaven LLC 255,1182000,B+,Insurance,United States,1st Lien,Floating,325,,0,2032-11-30,0.665,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00265,LARGE2-SYN-OB-0256,Large fixture 2 Granite Holdings 256,1182000,B+,Industrial Conglomerates,United States,1st Lien,Floating,315,,0,2032-12-28,0.29,99.25,4,USD,SOFR
+LARGE2-SYN-LN-00266,LARGE2-SYN-OB-0257,Large fixture 2 Harbor Inc. 257,1182000,B+,Insurance,United States,1st Lien,Floating,225,,0,2031-05-15,0.435,99.875,4,USD,SOFR
+LARGE2-SYN-LN-00267,LARGE2-SYN-OB-0258,Large fixture 2 Hawthorne Corp. 258,1182000,B+,Insurance,United States,1st Lien,Floating,340,,0,2034-06-30,0.455,97.5,4,USD,SOFR
+LARGE2-SYN-LN-00268,LARGE2-SYN-OB-0259,Large fixture 2 Highland Group 259,710000,B-,Containers & Packaging,United States,1st Lien,Floating,210,,50,2035-09-15,0.34,99,4,USD,SOFR
+LARGE2-SYN-LN-00269,LARGE2-SYN-OB-0259,Large fixture 2 Highland Group 259,472000,B-,Containers & Packaging,United States,1st Lien,Floating,220,,0,2035-11-30,0.34,99.125,4,USD,SOFR
+LARGE2-SYN-LN-00270,LARGE2-SYN-OB-0260,Large fixture 2 Ironwood LLC 260,1182000,B-,Containers & Packaging,United States,1st Lien,Floating,355,,0,2032-11-15,0.375,98.5,4,USD,SOFR
+LARGE2-SYN-LN-00271,LARGE2-SYN-OB-0261,Large fixture 2 Juniper Holdings 261,1182000,BB-,Food Products,United States,1st Lien,Floating,300,,0,2032-10-28,0.535,99,4,USD,SOFR
+LARGE2-SYN-LN-00272,LARGE2-SYN-OB-0262,Large fixture 2 Keystone Inc. 262,1182000,B-,Healthcare Providers & Services,United States,1st Lien,Floating,325,,0,2031-11-15,0.54,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00273,LARGE2-SYN-OB-0263,Large fixture 2 Lakeview Corp. 263,630000,BBB+,Passenger airlines,Luxembourg,1st Lien,Fixed,,0.041875,,2031-07-28,0.27,88.125,2,USD,
+LARGE2-SYN-LN-00274,LARGE2-SYN-OB-0264,Large fixture 2 Larkspur Group 264,1182000,B,Diversified Consumer Services,United States,1st Lien,Floating,290,,0,2032-05-28,0.375,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00275,LARGE2-SYN-OB-0265,Large fixture 2 Maple LLC 265,1182000,B-,Communications Equipment,United Kingdom,1st Lien,Floating,440,,0,2029-04-15,0.45,99.75,4,USD,SOFR
+LARGE2-SYN-LN-00276,LARGE2-SYN-OB-0266,Large fixture 2 Meridian Holdings 266,1182000,BB,Construction Materials,United States,1st Lien,Floating,230,,0,2030-09-28,0.335,100,4,USD,SOFR
+LARGE2-SYN-LN-00277,LARGE2-SYN-OB-0267,Large fixture 2 Northfield Inc. 267,790000,BB-,Food Products,United States,1st Lien,Floating,135,,0,2033-03-15,0.375,99.5,4,USD,SOFR
+LARGE2-SYN-LN-00278,LARGE2-SYN-OB-0267,Large fixture 2 Northfield Inc. 267,392000,BB-,Food Products,United States,1st Lien,Floating,145,,50,2033-05-15,0.375,99.625,4,USD,SOFR
+LARGE2-SYN-LN-00279,LARGE2-SYN-OB-0268,Large fixture 2 Oakmont Corp. 268,780000,BB-,Food Products,United States,1st Lien,Floating,295,,0,2033-01-28,0.47,101.5,4,USD,SOFR
+LARGE2-SYN-LN-00280,LARGE2-SYN-OB-0268,Large fixture 2 Oakmont Corp. 268,402000,BB-,Food Products,United States,1st Lien,Floating,305,,75,2033-03-15,0.47,101.625,4,USD,SOFR
+LARGE2-SYN-LN-00281,LARGE2-SYN-OB-0269,Large fixture 2 Orchard Group 269,1182000,BB-,Household Durables,United States,1st Lien,Floating,280,,0,2031-04-30,0.475,100.375,4,USD,SOFR
+LARGE2-SYN-LN-00282,LARGE2-SYN-OB-0270,Large fixture 2 Pinecrest LLC 270,1182000,B-,Pharmaceuticals,Luxembourg,1st Lien,Floating,435,,0,2029-07-15,0.435,100.375,4,USD,SOFR

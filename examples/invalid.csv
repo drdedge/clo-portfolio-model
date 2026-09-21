@@ -1,0 +1,7 @@
+instrument_id,obligor_id,obligor_name,par,sp_rating,sp_industry,country,seniority,rate_type,spread_bps,fixed_coupon_rate,floor_bps,maturity_date,recovery_aaa,price,payment_frequency,currency,benchmark
+SYN-LN-00001,SYN-OB-0001,Alder Holdings 001,1182000,BB-,"Hotels, Restaurants & Leisure",United States,1st Lien,Floating,220,,0,2033-10-30,0.395,101.5,4,USD,SOFR
+SYN-LN-00001,SYN-OB-0002,Amber Inc. 002,586000,BBB,IT Services,United Kingdom,Sr Unsec,Floating,220,,0,2031-02-15,0.2,96.5,4,USD,SOFR
+SYN-LN-00003,SYN-OB-0003,Arbor Corp. 003,1182000,B,Industrial Conglomerates,United States,1st Lien,Floating,255,,0,2032-04-15,,100.25,4,USD,SOFR
+SYN-LN-00004,SYN-OB-0004,Atlas Group 004,1182000,NOT_A_RATING,Financial services,United States,1st Lien,Floating,575,,0,2031-04-30,0.305,101.25,4,USD,SOFR
+SYN-LN-00005,SYN-OB-0005,Beacon LLC 005,1182000,B,Healthcare Providers & Services,United States,1st Lien,Floating,195,,0,2032-02-30,0.36,96.75,4,USD,SOFR
+SYN-LN-00006,SYN-OB-0006,Bluewater Holdings 006,-100000,B,Chemicals,United States,1st Lien,Floating,325,,0,2033-01-15,0.43,99,4,USD,SOFR
