@@ -1,0 +1,22 @@
+{
+  "column_mapping": {
+    "instrument_id": "Instrument ID",
+    "obligor_id": "Obligor ID",
+    "obligor_name": "Obligor name",
+    "par": "Par USD",
+    "sp_rating": "S&P rating input",
+    "sp_industry": "S&P industry",
+    "country": "Country",
+    "seniority": "Seniority",
+    "rate_type": "Rate type",
+    "spread_bps": "Spread bps",
+    "fixed_coupon_rate": "Fixed coupon",
+    "floor_bps": "Floor bps",
+    "maturity_date": "Maturity",
+    "recovery_aaa": "AAA recovery input",
+    "price": "Price",
+    "payment_frequency": "Payments per year",
+    "currency": "Currency",
+    "benchmark": "Benchmark"
+  }
+}

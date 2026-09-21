@@ -1,0 +1,36 @@
+{
+  "status": "invalid",
+  "errors": [
+    {
+      "row": 4,
+      "field": "recovery_aaa",
+      "value": "",
+      "message": "Required value missing"
+    },
+    {
+      "row": 5,
+      "field": "sp_rating",
+      "value": "NOT_A_RATING",
+      "message": "Unknown rating symbol; map explicitly to an S&P input"
+    },
+    {
+      "row": 6,
+      "field": "maturity_date",
+      "value": "2032-02-30",
+      "message": "Use YYYY-MM-DD, strictly after as-of date"
+    },
+    {
+      "row": 7,
+      "field": "par",
+      "value": "-100000",
+      "message": "Outside supported range >0, maximum None"
+    },
+    {
+      "row": 3,
+      "field": "instrument_id",
+      "value": "SYN-LN-00001",
+      "message": "Duplicate instrument ID; first occurrence row 2"
+    }
+  ],
+  "workbook_written": false
+}

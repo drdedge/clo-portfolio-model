@@ -1,0 +1,254 @@
+{
+  "package": "CLO local development model",
+  "version": "0.2.0",
+  "created": "2026-09-21",
+  "methodology_revision": "2026-04-10",
+  "runtime_binaries_included": false,
+  "files": [
+    {
+      "path": "build_workbook.mjs",
+      "bytes": 77309,
+      "sha256": "797010242ffc3cd7fbe77bf2b02d06b6b27c7fd27302235b9da9d3880e315f8f"
+    },
+    {
+      "path": "clo/__init__.py",
+      "bytes": 87,
+      "sha256": "f844db756a70545b40713d2987adfe576d8903dcc8633fb28800c510f0dae055"
+    },
+    {
+      "path": "clo/__main__.py",
+      "bytes": 21951,
+      "sha256": "e3eb4b46079bdcf7a545d07962c9cbcf500d0f3071f2eea1b6af7d9d4c417a18"
+    },
+    {
+      "path": "clo/cashflow.py",
+      "bytes": 31026,
+      "sha256": "c1550a33e59945a2a1559d3e3accf681fb9ed27b6efcc0455d947a7e01b4484d"
+    },
+    {
+      "path": "clo/fitch.py",
+      "bytes": 12683,
+      "sha256": "37755e4fdf878c26ed47fa87ce3b732cc806e2156bb522a698f7415572cbb8f9"
+    },
+    {
+      "path": "clo/inputs.py",
+      "bytes": 24249,
+      "sha256": "45fd795854b6952e13dae85ef7522d80515cddf3a49ae62de9b2437eccd95844"
+    },
+    {
+      "path": "clo/methodology.py",
+      "bytes": 13461,
+      "sha256": "0e1383e4ee6340f5e80ba814f93725cc333409b60b640424a9c1d3a97ae29e46"
+    },
+    {
+      "path": "config/model.json",
+      "bytes": 22034,
+      "sha256": "77b9afc7c392bd9e561c8461f0a7af624b489d77e9eada59485a2057efceab31"
+    },
+    {
+      "path": "docs/build_plan.md",
+      "bytes": 18113,
+      "sha256": "7b58db06f600a795653caee79b60db5a1956b030e21fddeef74abc52ccecd728"
+    },
+    {
+      "path": "docs/cashflow_design.md",
+      "bytes": 17816,
+      "sha256": "21063b63f601b68d5ba7fac41278ca7af12089b417bd97edcc4eb5d5df7c8cba"
+    },
+    {
+      "path": "docs/data_dictionary.md",
+      "bytes": 8033,
+      "sha256": "47e2907ec02371ff1162d01d92c273cf616d8d430feba75c7d390933912402ed"
+    },
+    {
+      "path": "docs/fitch_inputs.md",
+      "bytes": 5133,
+      "sha256": "f593676bb48e3db11abc8582c0f2eb10ceff0b7b850c23fea31ae63dbe7e7eb1"
+    },
+    {
+      "path": "docs/input_provenance.md",
+      "bytes": 7734,
+      "sha256": "666ce37057437c57ac6b7d289b49d996f8c1cfdd987f6be72ce6f8ea98ee4946"
+    },
+    {
+      "path": "docs/LLM_HANDOVER.md",
+      "bytes": 10882,
+      "sha256": "909081e83ab302af544d4b660155f64d0f6fa24c10c227242723c5f1bf984596"
+    },
+    {
+      "path": "docs/methodology.md",
+      "bytes": 23037,
+      "sha256": "d82cb9f7310b91f325b4ed36fb3d3d63f1379a5e5e469577fc800bb9f3a5f9bb"
+    },
+    {
+      "path": "docs/methodology_map.csv",
+      "bytes": 13280,
+      "sha256": "cda883a836e4fbac7d905a087d591ffc2fb0d0b905125500cd796cddbb2525f6"
+    },
+    {
+      "path": "docs/OUTSTANDING_AND_NEXT_STEPS.md",
+      "bytes": 5757,
+      "sha256": "704154a9a92b18c247363e57750b835d90c37c6f201b473fcac2a53806c81428"
+    },
+    {
+      "path": "docs/validation_report.md",
+      "bytes": 6665,
+      "sha256": "6813878dd6de05373c1a5f465d58cc731127933faf49d2df9e01ec22b89fbd89"
+    },
+    {
+      "path": "examples/column_mapping.json",
+      "bytes": 641,
+      "sha256": "ad55b0668c60a65b26262db663bf0f515d37648d8bfc393410e72aebd5148cff"
+    },
+    {
+      "path": "examples/example.csv",
+      "bytes": 42185,
+      "sha256": "4871e685880ab049e1bb5339e057537c3c152040d17e245b3fe9dca50e415af3"
+    },
+    {
+      "path": "examples/Example_CLO.results.json",
+      "bytes": 4873135,
+      "sha256": "b59fa859558416156d5f7e93d2024691db8c225414cbd62709502b9cea2745c2"
+    },
+    {
+      "path": "examples/Example_CLO.validation.json",
+      "bytes": 384,
+      "sha256": "1f6d5ead45b5db4077d7603737df66a3b4e456e8ec118142861c21b30096bd16"
+    },
+    {
+      "path": "examples/Example_CLO.xlsx",
+      "bytes": 714989,
+      "sha256": "d7681d6188c19c3bffbad34bfb3412a71899adc0c7eabceb619feb2b96826b4f"
+    },
+    {
+      "path": "examples/fitch_example.csv",
+      "bytes": 100871,
+      "sha256": "607362bd925e9b831aee6cfba9d0499738cac10bfcb2e6b5dd8dbc9d160ba72b"
+    },
+    {
+      "path": "examples/fitch_replacement.csv",
+      "bytes": 18334,
+      "sha256": "0ff65920c3d3a5fbda5cc10b8b839bbe5c5535ab72e3b91ae92da86d63515e40"
+    },
+    {
+      "path": "examples/invalid.csv",
+      "bytes": 1094,
+      "sha256": "d9169872e49f90d673c2bb39f713a44157fde8df9d48df65b22517bcf26206f6"
+    },
+    {
+      "path": "examples/Invalid_CLO.validation.json",
+      "bytes": 838,
+      "sha256": "1e27e1f9238472e29cb3aa6d3e6e8df6d176b2cfdb77184c25c8d4470b255310"
+    },
+    {
+      "path": "examples/Large_CLO.validation.json",
+      "bytes": 181,
+      "sha256": "0dd9c81d4935c30830a987f266a6ffa5880858ae7ddf271156d51c0adf7a2106"
+    },
+    {
+      "path": "examples/replacement.csv",
+      "bytes": 8042,
+      "sha256": "af50071f7775266f60302056bfc8932e09515f6420f559249eb85f02c320f680"
+    },
+    {
+      "path": "examples/Replacement_CLO.results.json",
+      "bytes": 4230804,
+      "sha256": "7a5d72612c448243e667bb5463661ae4e78151033ae62975baa8425243617e3c"
+    },
+    {
+      "path": "examples/Replacement_CLO.validation.json",
+      "bytes": 382,
+      "sha256": "078570b554ff9f1b2468ddae814c53cbf6ae0b83d94493c13960abf1f9e25473"
+    },
+    {
+      "path": "examples/Replacement_CLO.xlsx",
+      "bytes": 517004,
+      "sha256": "d9f871a7387431f64797030b5421a60e8660fff3a5279eea7baa2847d7fa1531"
+    },
+    {
+      "path": "examples/replacement_large.csv",
+      "bytes": 101088,
+      "sha256": "0898045ca7d08a8a2b481bc87f51af9ac4578fc36cb20e520881c5c993ca62cb"
+    },
+    {
+      "path": "QUICK_START.md",
+      "bytes": 5139,
+      "sha256": "75dd6fc8eea8cb7cf72695f861ee688bde8b7b8489b22cfee04ca157b1d30384"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10950,
+      "sha256": "bb21b6c1c9f9c933f2bc2609b41783a737e2733b7524cb3a22fb9ab73a15df82"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 179,
+      "sha256": "eb05a32f195f71288d664b50f60eb7bb0eae1e2397939f18635e8fe06b0abc31"
+    },
+    {
+      "path": "run_model.ps1",
+      "bytes": 1361,
+      "sha256": "9d3dcbca1c360708d4ee2be0835436c6e6a9924666197fab11092de8bc467fc4"
+    },
+    {
+      "path": "templates/CLO_Template.results.json",
+      "bytes": 30258,
+      "sha256": "61dc8f03c9e4911804cb34e3f72e3ff1a3be9d5a8771c3984bcf60dc5c4dd3b3"
+    },
+    {
+      "path": "templates/CLO_Template.validation.json",
+      "bytes": 326,
+      "sha256": "1f740044d37d60504b066cf8671f60b0031fc757d256fb58386ca5411e2c8479"
+    },
+    {
+      "path": "templates/CLO_Template.xlsx",
+      "bytes": 88161,
+      "sha256": "bc39d878cbd7039256d360e1280dee1a983d59ca2e2c552d16ef873ca613459a"
+    },
+    {
+      "path": "templates/fitch_inputs_dictionary.csv",
+      "bytes": 1288,
+      "sha256": "a5479ba57a65a498c7249ec03fa2315a46484818110747269cd607593fe69ced"
+    },
+    {
+      "path": "templates/fitch_inputs_template.csv",
+      "bytes": 112,
+      "sha256": "70595a78921a20a38683b4f77669213692f74b8919fd3be0a2abef6319399dc8"
+    },
+    {
+      "path": "templates/portfolio_template.csv",
+      "bytes": 202,
+      "sha256": "92d4104e4df56051ccccede56cdb67b556ace7a2209d3606b8c7db16e9347dbe"
+    },
+    {
+      "path": "tests/test_cashflow.py",
+      "bytes": 12702,
+      "sha256": "ede095500345381d0c8f40cbbd9b85010027b830b41f54db57eaacef89a85515"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "bytes": 24029,
+      "sha256": "0eac3ea2fee85874a15e9ff1528e707d7a7f994d01165ffeaf5a1e219b43e7ac"
+    },
+    {
+      "path": "tests/test_config.py",
+      "bytes": 7852,
+      "sha256": "fc60078c4a5da5478ba794c3a7bb5c73c2018c315f892e240f14f5bb562dd960"
+    },
+    {
+      "path": "tests/test_fitch.py",
+      "bytes": 6189,
+      "sha256": "0b02b2937ab75547bbba4738cc0c5a66753eccb129df078dabafcc498fac0dd3"
+    },
+    {
+      "path": "tests/test_inputs.py",
+      "bytes": 12234,
+      "sha256": "e91635eb8bc9993acba171b384a475d6a965c7d0fa8f98a229960708504ecad2"
+    },
+    {
+      "path": "tests/test_methodology.py",
+      "bytes": 6104,
+      "sha256": "feb91675dda13424b636ed7826f46d5e40f320e0a1b468ac83a7ea410e8b7610"
+    }
+  ]
+}

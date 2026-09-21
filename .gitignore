@@ -1,0 +1,22 @@
+# Local dependencies and Python caches
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local credentials, calibration data and scratch work
+.env
+.env.*
+local_data/
+work/
+outputs/
+~$*
+
+# Generated runs at repository root; tracked fictional examples stay included
+/*.xlsx
+/*.results.json
+/*.validation.json

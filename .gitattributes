@@ -1,0 +1,2 @@
+# Preserve delivered bytes so MANIFEST.json hashes remain valid on every OS.
+* -text

@@ -1,0 +1,10 @@
+{
+  "status": "valid",
+  "source_rows": 282,
+  "obligors": 270,
+  "source_hash": "4871e685880ab049e1bb5339e057537c3c152040d17e245b3fe9dca50e415af3",
+  "config_hash": "de8042790ba58de94e6c8c6096fead6bfce11b86527e27b1811866e1cb361949",
+  "run_id": "c31d923d2a5ee803",
+  "normalizations": [],
+  "methodology": "Public components + exploratory cash flows; AAA not determined"
+}

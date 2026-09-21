@@ -1,0 +1,10 @@
+{
+  "status": "template",
+  "source_rows": 0,
+  "obligors": 0,
+  "source_hash": "not run",
+  "config_hash": "de8042790ba58de94e6c8c6096fead6bfce11b86527e27b1811866e1cb361949",
+  "run_id": "bc0d93aa7df0ccc1",
+  "normalizations": [],
+  "methodology": "Public components + exploratory cash flows; AAA not determined"
+}
